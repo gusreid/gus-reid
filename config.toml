@@ -1,0 +1,161 @@
+#-------------------------------
+# General Site Settings
+baseURL = "https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/"
+languageCode = "en-us"
+title = "Gus Reid|Move True"
+googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+paginate = 12
+
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Classes"
+    url = "/videos/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Articles"
+    url = "/featured/"
+    weight = 2
+
+  # Call to action button
+  [params.cta_button]
+    enable = true
+    cta_button_link = "/"
+    cta_button_text = "Sign Up"
+
+
+[params]
+  logo = "/logo.png"
+  description = "Danto is a news and magazine Hugo theme"
+
+
+  #-------------------------------
+  # Hero Settings
+  [params.hero]
+    enable = true
+    hero__title = "One Stop Daily News, Article, Inspiration, and Tips."
+    hero__description = "Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!"
+
+
+  #-------------------------------
+  # Tags Section Settings
+  [params.tags_section]
+    enable = true
+    number_posts = 3 # To control how many posts to show under each tag section, set the value to a number. Three is the default.
+    number_columns = 3 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
+
+ # [[params.tag]]
+ #  tag = "post"
+
+  # You can add many tag sections to the homepage; each section will show the recent posts by the tag.
+
+
+  #-------------------------------
+  # Authors Section Settings
+  [params.authors_section]
+    enable = true
+    section_title = "Meet our authors"
+
+
+  #-------------------------------
+  # Footer Settings
+  [params.footer]
+    footer__description = "Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!"
+
+  # Social Links
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter"
+    link = "https://twitter.com"
+
+  [[params.social]]
+    icon = "ion-logo-facebook"
+    name = "Facebook"
+    link = "https://facebook.com"
+
+  [[params.social]]
+    icon = "ion-logo-instagram"
+    name = "Instagram"
+    link = "https://www.instagram.com/gustamove/"
+
+  [[params.social]]
+    icon = "ion-logo-pinterest"
+    name = "Pinterest"
+    link = "https://pinterest.com"
+
+  [[params.social]]
+    icon = "ion-logo-github"
+    name = "Github"
+    link = "https://github.com"
+
+  [[params.social]]
+    icon = "ion-logo-youtube"
+    name = "Youtube"
+    link = "https://youtube.com"
+
+  # Example of adding a new link to the footer section:
+  # [[params.social]]
+  #   icon = "ion-logo-vimeo"
+  #   name = "Vimeo"
+  #   link = "https://vimeo.com"
+
+  # Other icons can be found at https://ionicons.com/v4/
+
+
+  # Newsletter
+  [params.mailchimp]
+    enable = true
+    mailchimp__title = "Sign Up Now"
+    mailchimp__description = ""
+    mailchimp__identifier = "/"
+    mailchimp__input__text = "Your email address"
+    mailchimp__button__text = "Sign Up"
+
+
+  #-------------------------------
+  # Contact Settings
+  [params.contact]
+    email = "your@email.com" # Add your form_id
+
+    # NOTE
+    # Danto comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+  #-------------------------------
+  # Comment Section (Disqus)
+  [params.disqus]
+    enable = true
+    disqusShortname = "anvod-studio-test" # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false

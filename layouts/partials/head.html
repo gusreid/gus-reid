@@ -1,0 +1,315 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="/images/url.png">
+
+  <title>{{ if not .IsHome }}{{ .Title }}{{ .Params.name }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{if .IsHome}}{{ .Site.Params.description }}{{else}}{{ .Description }}{{end}}">
+
+  {{ with .OutputFormats.Get "rss" -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end }}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+  <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  {{ if .IsHome}}<meta name="twitter:image" content="{{ .Site.Params.hero.hero__image | absURL }}">{{ else }}<meta name="twitter:image" content="{{ .Params.Image | absURL }}">{{ end }}
+
+  <!-- Facebook OpenGraph -->
+  <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  {{ if .IsHome}}<meta property="og:image" content="{{ .Site.Params.hero.hero__image | absURL }}">{{ else }}<meta property="og:image" content="{{ .Params.Image | absURL }}">{{ end }}
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,700;1,400&family=Poppins:wght@400;500;700&display=swap" as="style">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,700;1,400&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <!-- Ionicons -->
+  <link rel="preload" href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" as="style">
+  <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+  
+  <!-- linking style sheet -->
+  <link rel="stylesheet" href="/css/style.css">
+
+  <!-- slider  -->
+
+  <style>
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.testimonials-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    background-color: #FD7B33;
+    height: 100vh;
+    margin: 0 auto;
+    border-radius: 20px;
+  }
+  
+  .testimonials-slider {
+    display: block;
+    width: 500px;
+    background-color: #111;
+    padding: 30px 20px;
+    margin: 0 50px;
+    border-radius: 10px;
+    border-bottom-right-radius: 35px;
+  }
+  
+  .testimonial {
+    text-align: center;
+  }
+  
+  .testimonial img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    object-fit: cover;
+  }
+  
+  .testimonial p {
+    font-size: 16px;
+    padding: 30px 0;
+    line-height: 1.6;
+  }
+
+  .testimonial p span {
+    font-size: 14px;
+    font-weight: 500;
+  }
+  
+  .slick-slider {
+    margin: 0 auto;
+  }
+  
+  .slick-slide {
+    outline: none;
+  }
+  
+  .slick-custom-nav {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+  }
+  
+  .slick-custom-nav {
+    position: relative; /* Change to relative */
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+  }
+  
+  .prev-btn,
+  .next-btn {
+    font-size: 20px;
+    line-height: 1;
+    cursor: pointer;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+  }
+  
+  .prev-btn {
+    margin-right: 10px;
+  }
+  
+  .slick-dots {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .slick-dots li {
+    display: inline-block;
+    margin: 0 5px;
+  }
+  
+  .slick-dots li button {
+    font-size: 0;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #ccc;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+  .slick-dots li.slick-active button {
+    background-color: #333;
+  }
+
+  @media (max-width: 690px) {
+      .testimonials-slider {
+        width: 300px;
+      }
+  }
+
+  @media (max-width: 420px) {
+      .testimonials-slider {
+        width: 250px;
+      }
+  }
+
+  /* home  */
+
+  .bgblack {
+    width: 100%;
+    height: 400px;
+    background-color: #111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .bgblack .content {
+    text-align: center;
+  }
+
+  .content h2 {
+    font-size: 2rem;
+    font-weight: larger;
+  }
+
+  .content .bold {
+    font-size: 2.7rem;
+  }
+
+  .img {
+    position: relative;
+  }
+
+  .img .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .img .home-img {
+    width: 220px;
+    position: absolute;
+    top: -130px;
+  }
+
+  .bgorange {
+    width: 100%;
+    padding-bottom: 90px;
+    background-color: #FD7B33;
+  }
+
+  .bgorange .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 600px;
+    margin: auto;
+    padding-top: 200px;
+    text-align: center;
+  }
+
+  .content h3 {
+    color: #1560BD;
+  }
+
+  .content .home-p {
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .content span {
+    font-weight: bolder;
+    font-size: 1rem;
+  }
+  
+  .forum {
+    width: 550px;
+    margin: 0 auto;
+  }
+
+  .forum form{
+    display: flex;
+    flex-direction: column;
+    color: #111;
+    gap: 25px;
+  }
+
+  form .input-box {
+    height: 40px;
+    padding: 0 15px;
+    color: #111;
+    border: 1px solid transparent;
+    outline: none;
+    border-radius: 7px;
+  }
+
+  form .home-button {
+    background-color: #1560BD;
+    color: #FD7B33;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all;
+    transition-duration: .2s;
+    transition-delay: .1s;
+  }
+
+  form .home-button:hover {
+    background-color: #1673e4;
+  }
+
+  @media (max-width: 670px) {
+    .bgorange .content {
+      width: auto;
+      margin: 0 50px;
+    }
+
+    .forum {
+      width: auto;
+      margin: 0 50px;
+    }
+  }
+  </style>
+
+  <script>
+    {{ if eq .Site.Params.color_scheme "auto" }}
+    if (localStorage.getItem("theme") === "dark") {
+      document.documentElement.setAttribute("dark", "");
+      document.documentElement.classList.add('dark-mode');
+    }
+    {{ else if eq .Site.Params.color_scheme "light" }}
+      document.documentElement.setAttribute("light", "");
+      document.documentElement.classList.add('light-mode');
+    {{ else if eq .Site.Params.color_scheme "dark" }}
+      document.documentElement.setAttribute("dark", "");
+      document.documentElement.classList.add('dark-mode');
+    {{ else }}
+    if (localStorage.getItem("theme") === "dark") {
+      document.documentElement.setAttribute("dark", "");
+      document.documentElement.classList.add('dark-mode');
+    }
+    {{ end }}
+  </script>
+
+  <!-- CSS -->
+  {{ with resources.Get "sass/main.scss" | toCSS | minify }}
+  <style>{{ .Content | safeCSS }}</style>
+  {{ end }}
+
+</head>

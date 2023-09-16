@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+<!-- begin hero -->
+<section class="hero hero--left">
+  <div class="container">
+    {{ if .Title }}
+    <h1 class="hero__title">{{ .Title }}</h1>
+    {{ end }}
+  </div>
+</section>
+<!-- end hero -->
+
+<!-- Image section--> 
+<div class="container">
+  <div class="contact-description">
+    <p> {{ .Content}}</p>
+  </div>
+  <div class=".gallery-box">
+    <div class="gallery">
+      <div class="gallery__image">
+        <img src="/images/gallery1.jpg" alt="">
+      </div>
+      <div class="gallery__image">
+        <img src="/images/gallery2.jpg" alt="">
+      </div>
+      <div class="gallery__image">
+        <img src="/images/gallery3.jpg" alt="">
+      </div>
+      <div class="gallery__image">
+        <img src="/images/gallery4.jpg" alt="">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--End Image section-->
+
+<!-- Calender section-->
+<div class="post-video">
+  <div class="post-video__wrap">
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23fd7b33&ctz=UTC&showNav=1&showTitle=0&showPrint=0&src=bWlicmFoZWVtMzM1MzIyMzNAZ21haWwuY29t&src=ZmViYmFlNjJlZmZmYTBjNDNhYTgxMWM3NGM1ZTc4NTNmZWMyYzdmMzRiZjEzZDE2Yzg1NjgwYzY3ODAyMDg4MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=NmNhMWM1NjM3NDMzMTVkMmYzYWRmMTRkMzEzNzVkYzQ5MTgxZjBmMjk3OWVmOTdiOTEzMzZiYWJjMjFhMzEwNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4ucGsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%23F09300&color=%23F4511E&color=%2333B679&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </div>
+</div>
+<!-- End calender section-->
+  </div>
+
+{{ end }}
