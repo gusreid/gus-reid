@@ -18,17 +18,22 @@ paginate = 12
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Classes"
     url = "/videos/"
-    weight = 3
+    weight = 2
 
   [[menu.main]]
     name = "Articles"
     url = "/featured/"
-    weight = 2
+    weight = 4
+
+  [[menu.main]]
+    name = "Work With Me"
+    url = "/work-with-me/"
+    weight = 3
 
   # Call to action button
   [params.cta_button]

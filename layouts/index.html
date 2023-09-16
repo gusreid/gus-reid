@@ -1,34 +1,44 @@
 {{ define "main" }}
+{{ with .Params.home }}
+{{ if .enable}}
 
 <section class="home-sect">
     <div class="bgblack">
         <div class="content">
-            <h2>Your body is <br> not a temple. <br> <span class="bold">It’s home.</span></h2>
+            <h2>{{ .heading }}</h2>
         </div>
     </div>
     <div class="img">
         <div class="content">
-            <img src="/images/58.png" alt="site logo" class="home-img">
+            <img src="{{ .image }}" alt="site logo" class="home-img">
         </div>
     </div>
+{{ end }}
+{{ end }}
+
+{{ with .Params.forum }}
+{{ if .enable }}
     <div class="bgorange">
         <div class="content">
-            <h3>Get The Nomadic Workout</h3>
-            <p class="home-p">Lorem ipsum dolor sit amet consectetur adipisicing elit Optio vero quaerat.<br> <span> illo recusandae dolorum beatae ullam harum.</span></p>
+            <h3>{{ .title }}</h3>
+            <p class="home-p">{{ .para }}</p>
         </div>
         <div class="forum">
             <form action="">
-                <input type="text" placeholder="First Name" class="input-box">
-                <input type="email" placeholder="Email Address" class="input-box">
+                <input type="text" placeholder="{{ .name }}" class="input-box">
+                <input type="email" placeholder="{{ .email }}" class="input-box">
                 <select name="personality" id="personality" class="input-box">
-                    <option value="describe you">Which of these describe you the best?</option>
-                    <option value="train.">I train.</option>
-                    <option value="inspiring trainer.">I'm an inspiring trainer.</option>
-                    <option value="trainer.">I'm a trainer.</option>
+                    <option value="describe you">{{ .select }}</option>
+                    <option value="mover.">{{ .option1 }}</option>
+                    <option value="movement curious.">{{ .option2 }}.</option>
+                    <option value="facilitator.">{{ .option3 }}</option>
                 </select>
-                <button class="input-box home-button">Subscribe Now</button>
+                <button class="input-box home-button">{{ .btn }}</button>
             </form>
         </div>
     </div>
 </section>
+
+{{ end }}
+{{ end }}
 {{ end }}

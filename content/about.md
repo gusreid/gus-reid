@@ -1,82 +1,73 @@
----
-title: About
-image: 'gus.jpg'
----
-Hi, I'm Gus,
++++
+title = "About"
+image = 'gusbridge.jpg'
++++
+Hi,
 
-My mission is to provide kindling to fuel your transformational fire. To help you reconnect with the innate, healing intelligence of you body through movement and self-inquiry.
+I'm Gus and I'm passionate about movement as a therapeutic tool and vehicle for inner transformation. 
 
-Through my own 30+ year journey with persistent pain, and the resulting obsession with finding lasting results, I've realised that for physical interventions to have any real impact (beyond superficial, transient relief) we must be oriented towards an inner transformation - not just one of fixing symptoms and getting back to "real life". This is the jewel at the heart of every true transformational practice. My job is to help spark your transformational process, so that you can engage with any practice or treatment in a powerfully effective way that moves you towards physical freedom.
+It's my joy to help empower you to reconnect to you inner guidance system through movement. 
+
+Through my own 30+ year journey with persistent pain and musculoskeletal imbalances, and the resulting obsession with finding lasting results, I've cultivated a practice that puts us in touch with the body's innate intelligence that wants what's best for us and our lives. 
+
+My mission is to help ignite your transformational process, so that you can move from a place of inner-knowing and engage with any practice or treatment in a powerfully effective way that moves you towards physical freedom.
+
+<!-- ![alt text](/images/58.png) -->
 
 <!--Slider-->
 
    <h2>Testimonial</h2>
-  <div class="testimonials-container">
-        <div class="testimonials-slider">
-          <div class="testimonial">
-            <img src="/images/gus.jpg" alt="Avatar">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime odio dolorem voluptatibus quod labore reiciendis ut illum distinctio accusantium odit molestias optio harum nemo, eos vero minus sit nulla, quidem provident saepe!</elit></p>
-            <span>- John Doe</span>
-          </div>
-          <div class="testimonial">
-            <img src="/images/gus.jpg" alt="Avatar">
-            <p>Nulla vitae nunc vel nunc bibendum bibendum. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, neque quod officiis placeat minus delectus facere quisquam nesciunt possimus maiores dignissimos voluptate nemo, vero suscipit saepe harum quis quaerat voluptates! Quaerat, eum.</p>
-            <span>- Jane Smith</span>
-          </div>
-          <div class="testimonial">
-            <img src="/images/gus.jpg" alt="Avatar">
-            <p>Nulla vitae nunc vel nunc bibendum bibendum. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, neque quod officiis placeat minus delectus facere quisquam nesciunt possimus maiores dignissimos voluptate nemo, vero suscipit saepe harum quis quaerat voluptates! Quaerat, eum.</p>
-            <span>- Jane Smith</span>
-          </div>
-          <div class="testimonial">
-            <img src="/images/gus.jpg" alt="Avatar">
-            <p>Nulla vitae nunc vel nunc bibendum bibendum. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, neque quod officiis placeat minus delectus facere quisquam nesciunt possimus maiores dignissimos voluptate nemo, vero suscipit saepe harum quis quaerat voluptates! Quaerat, eum.</p>
-            <span>- Jane Smith</span>
-          </div>
-          <!-- Add more testimonials here -->
-        </div>
-            <div class="pagination"></div>
-        </div>
-    </div>
+  <!-- Slider main container -->
+<div class="swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+    <!-- Slides -->
+    <div class="swiper-slide">Slide 1</div>
+    <div class="swiper-slide">Slide 2</div>
+    <div class="swiper-slide">Slide 3</div>
+    ...
+  </div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+
+  <!-- If we need scrollbar -->
+  <div class="swiper-scrollbar"></div>
+</div>
     
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
+/>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 
 <script>
+  const swiper = new Swiper('.swiper', {
+  // Optional parameters
+  direction: 'vertical',
+  loop: true,
 
-    $(document).ready(function() {
-      const testimonialsSlider = $(".testimonials-slider");
-      const prevBtn = $(".prev-btn");
-      const nextBtn = $(".next-btn");
-      const pagination = $(".pagination");
-  
-      testimonialsSlider.slick({
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        arrows: false,
-        dots: true,
-        autoplay: true,
-        autoplaySpeed: 5000,
-        responsive: [
-          {
-            breakpoint: 768,
-            settings: {
-              dots: false
-            }
-          }
-        ]
-      });
-  
-      prevBtn.click(function() {
-        testimonialsSlider.slick("slickPrev");
-      });
-  
-      nextBtn.click(function() {
-        testimonialsSlider.slick("slickNext");
-      });
-    });
+  // If we need pagination
+  pagination: {
+    el: '.swiper-pagination',
+  },
+
+  // Navigation arrows
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+
+  // And if we need scrollbar
+  scrollbar: {
+    el: '.swiper-scrollbar',
+  },
+});
+
   </script>
 
 <!--Instagram Feed-->
