@@ -1,14 +1,15 @@
 +++
 title = "About"
-image = 'gusbridge.jpg'
+image = 'image.jpg'
 +++
+
 Hi,
 
-I'm Gus and I'm passionate about movement as a therapeutic tool and vehicle for inner transformation. 
+I'm Gus and I'm passionate about movement as a therapeutic tool and vehicle for inner transformation.
 
-It's my joy to help empower you to reconnect to you inner guidance system through movement. 
+It's my joy to help empower you to reconnect to you inner guidance system through movement.
 
-Through my own 30+ year journey with persistent pain and musculoskeletal imbalances, and the resulting obsession with finding lasting results, I've cultivated a practice that puts us in touch with the body's innate intelligence that wants what's best for us and our lives. 
+Through my own 30+ year journey with persistent pain and musculoskeletal imbalances, and the resulting obsession with finding lasting results, I've cultivated a practice that puts us in touch with the body's innate intelligence that wants what's best for us and our lives.
 
 My mission is to help ignite your transformational process, so that you can move from a place of inner-knowing and engage with any practice or treatment in a powerfully effective way that moves you towards physical freedom.
 
@@ -22,10 +23,27 @@ My mission is to help ignite your transformational process, so that you can move
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-    <div class="swiper-slide">Slide 1</div>
-    <div class="swiper-slide">Slide 2</div>
-    <div class="swiper-slide">Slide 3</div>
-    ...
+    <div class="swiper-slide">
+      <div class="testimonial">
+          <img src="/images/gus.jpg" alt="Avatar">
+          <p>Nulla vitae nunc vel nunc bibendum bibendum. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, neque quod officiis placeat minus delectus facere quisquam nesciunt possimus maiores dignissimos voluptate nemo, vero suscipit saepe harum quis quaerat voluptates! Quaerat, eum.</p>
+          <span>- Jane Smith</span>
+        </div>
+      </div>
+    <div class="swiper-slide">
+      <div class="testimonial">
+          <img src="/images/gus.jpg" alt="Avatar">
+          <p>Nulla vitae nunc vel nunc bibendum bibendum. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, neque quod officiis placeat minus delectus facere quisquam nesciunt possimus maiores dignissimos voluptate nemo, vero suscipit saepe harum quis quaerat voluptates! Quaerat, eum.</p>
+          <span>- Jane Smith</span>
+        </div>
+    </div>
+    <div class="swiper-slide">
+      <div class="testimonial">
+          <img src="/images/gus.jpg" alt="Avatar">
+          <p>Nulla vitae nunc vel nunc bibendum bibendum. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, neque quod officiis placeat minus delectus facere quisquam nesciunt possimus maiores dignissimos voluptate nemo, vero suscipit saepe harum quis quaerat voluptates! Quaerat, eum.</p>
+          <span>- Jane Smith</span>
+        </div>
+    </div>
   </div>
   <!-- If we need pagination -->
   <div class="swiper-pagination"></div>
