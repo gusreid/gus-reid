@@ -61,4 +61,3 @@ Learn tasks that aim to improve:
 All ages and abilities welcome, as I can give various levels at which each drill can be approached. 
 
 Come play!
-

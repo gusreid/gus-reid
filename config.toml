@@ -22,7 +22,7 @@ paginate = 12
 
   [[menu.main]]
     name = "Classes"
-    url = "/videos/"
+    url = "/classes/"
     weight = 2
 
   [[menu.main]]
