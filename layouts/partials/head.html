@@ -96,6 +96,28 @@
     margin-bottom: 10px;
     object-fit: cover;
   }
+
+  .nav--button {
+    display: inline-flex;
+  align-items: center;
+  padding: 8px 18px;
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: 60px;
+  border: none;
+  outline: none;
+  color: white;
+  background: #111;
+  transition: all .2s;
+  will-change: transform;
+  cursor: pointer;
+  }
+
+  .nav--button:hover {
+    background: #333;
+  }
   
   .testimonial p {
     font-size: 16px;
@@ -244,7 +266,7 @@
   }
 
   .content h2 {
-    font-size: 2rem;
+    font-size: 4rem;
     font-weight: larger;
     max-width: 300px;
   }
@@ -254,25 +276,19 @@
   }
 
   .img {
-    position: relative;
-  }
-
-  .img .content {
     display: flex;
     justify-content: center;
     align-items: center;
   }
 
-  .img .home-img {
-    width: 220px;
-    position: absolute;
-    top: -130px;
+  .home-img {
+    width: 400px;
   }
 
   .bgorange {
     width: 100%;
     padding-bottom: 90px;
-    background-color: #FD7B33;
+    background-color: #111;
   }
 
   .bgorange .content {
@@ -287,12 +303,11 @@
   }
 
   .content h3 {
-    color: #1560BD;
+    color: #FD7B33;
   }
 
   .content .home-p {
     font-size: 1rem;
-    color: #333;
   }
   
   .content span {
@@ -322,8 +337,8 @@
   }
 
   form .home-button {
-    background-color: #1560BD;
-    color: #FD7B33;
+    background-color: #FD7B33;
+    color: whitesmoke;
     font-size: 1.2rem;
     font-weight: bold;
     cursor: pointer;
@@ -333,7 +348,7 @@
   }
 
   form .home-button:hover {
-    background-color: #1673e4;
+    background-color: #cf5716;
   }
 
   @media (max-width: 670px) {
@@ -348,26 +363,6 @@
     }
   }
   </style>
-
-  <script>
-    {{ if eq .Site.Params.color_scheme "auto" }}
-    if (localStorage.getItem("theme") === "dark") {
-      document.documentElement.setAttribute("dark", "");
-      document.documentElement.classList.add('dark-mode');
-    }
-    {{ else if eq .Site.Params.color_scheme "light" }}
-      document.documentElement.setAttribute("light", "");
-      document.documentElement.classList.add('light-mode');
-    {{ else if eq .Site.Params.color_scheme "dark" }}
-      document.documentElement.setAttribute("dark", "");
-      document.documentElement.classList.add('dark-mode');
-    {{ else }}
-    if (localStorage.getItem("theme") === "dark") {
-      document.documentElement.setAttribute("dark", "");
-      document.documentElement.classList.add('dark-mode');
-    }
-    {{ end }}
-  </script>
 
   <!-- CSS -->
   {{ with resources.Get "sass/main.scss" | toCSS | minify }}

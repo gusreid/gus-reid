@@ -43,8 +43,10 @@ paginate = 12
 
 
 [params]
-  logo = "/logo.png"
+  logo = "images/black-logo.png"
   description = "Danto is a news and magazine Hugo theme"
+
+  footer_logo = "images/colored-logo.png"
 
 
   #-------------------------------
@@ -52,7 +54,7 @@ paginate = 12
   [params.hero]
     enable = true
     hero__title = "One Stop Daily News, Article, Inspiration, and Tips."
-    hero__description = "Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!"
+    hero__description = ""
 
 
   #-------------------------------
@@ -78,38 +80,13 @@ paginate = 12
   #-------------------------------
   # Footer Settings
   [params.footer]
-    footer__description = "Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!"
+    footer__description = ""
 
   # Social Links
-  [[params.social]]
-    icon = "ion-logo-twitter"
-    name = "Twitter"
-    link = "https://twitter.com"
-
-  [[params.social]]
-    icon = "ion-logo-facebook"
-    name = "Facebook"
-    link = "https://facebook.com"
-
   [[params.social]]
     icon = "ion-logo-instagram"
     name = "Instagram"
     link = "https://www.instagram.com/gustamove/"
-
-  [[params.social]]
-    icon = "ion-logo-pinterest"
-    name = "Pinterest"
-    link = "https://pinterest.com"
-
-  [[params.social]]
-    icon = "ion-logo-github"
-    name = "Github"
-    link = "https://github.com"
-
-  [[params.social]]
-    icon = "ion-logo-youtube"
-    name = "Youtube"
-    link = "https://youtube.com"
 
   # Example of adding a new link to the footer section:
   # [[params.social]]

@@ -7,6 +7,7 @@
     align-items: center;
     flex-wrap: wrap;
     padding: $base-spacing-unit;
+    background-color: #FD7B33;
   }
 }
 
@@ -64,6 +65,7 @@
       opacity: 1;
       visibility: visible;
       transform: translate3d(0,0,0);
+      background-color: #FD7B33;
     }
 
     .nav__list {
@@ -147,13 +149,14 @@
       text-underline-offset: 3px;
       text-decoration-color: transparent;
       will-change: transform;
+      color: #111;
 
       &:hover {
-        text-decoration-color: var(--link-color);
+        text-decoration-color: #111;
       }
 
       &.active-link {
-        text-decoration-color: var(--link-color);
+        text-decoration-color: #111;
       }
     }
 
@@ -217,7 +220,7 @@
   text-decoration-color: transparent;
 
   &:hover {
-    text-decoration-color: var(--link-color);
+    text-decoration-color: #111;
   }
 }
 
@@ -252,7 +255,7 @@
   height: 4px;
   border-radius: 10px;
   transition: all 0.15s linear;
-  background-color: #FD7B33;
+  background-color: #111;
 }
 
 .hamburger div:before,
