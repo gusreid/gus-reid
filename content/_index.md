@@ -9,7 +9,7 @@ image = "/logo.png"
 [forum]
 enable = true
 title = "Sign up for updates"
-para = "No spam, just , workshops and articles."
+para = "No spam, just news on upcoming classes, workshops and articles."
 name = "Full Name"
 email = "Enter Email"
 select = "Which of these describe you the best"
