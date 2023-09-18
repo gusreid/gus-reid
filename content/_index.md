@@ -4,7 +4,7 @@ title = "home"
 [home]
 enable = true
 heading = "Pursuing Physical Freedom"
-image = "/logo.png"
+image = "/colored-logo.png"
 
 [forum]
 enable = true
