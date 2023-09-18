@@ -11,7 +11,7 @@ I was born in the most unlikely of places - Oklahoma City, USA. At age seven I m
 
 I was never athletic growing up. In fact, up until the age of 34, I spent most of my life abusing my body with drink, drugs and party binges. I can see now that, with drugs, I was seeking freedom from acute pain. I was born with a musculoskeletal condition called *pectus excavatum*. Which is a whole-body condition that manifests most obviously as a concaved chest. Not only did this cause me a lot of social anxiety, but it made breathing difficult and movement painful. I was racked with injuries as a child, many of which I'm still rehabilitating. 
 
-
+![alt text](/images/gusbridge.jpg)
 
 At age 34 I my life turned upside down. Rapidly declining health and the ending of a tumultuous relationship drove me to figuring out what the hell was going on around here! I wanted to know how I could reconnect with and heal my body. I became obsessed with the healing modalities; studying yoga, taiji, chi gong, calisthenics, mobility, strength training, holistic health, meditation, contemplation, herbal medicine, Ayurveda, breathing techniques, cosmologies and shamanic practices. 
 
@@ -19,7 +19,7 @@ In the beginning I just wanted to heal so I could get back to the party. But eve
 
 Cutting myself off from most of life's distractions, I took myself away to the Shropshire hills to dive deep into my own experiment. For months at a time, over many years, I would do nothing but study, contemplate, move, and explore my body and mind. I had many breakthroughs into the nature of self, mind, body and the human condition. What I discovered is that my body's shape is largely, of not entirely, due to my inner disposition towards self and life. In my case one of living in a state of anxiety, self-loathing and denial. And that changing my disposition changed my experience... fast. This led me to the understanding that of all the practices I had explored it's not the modality that determines success, but our inner-orientation toward that modality. With the correct inner-orientation, almost any practice can powerfully serve our transformation and expansion. Without it, at  best, they offer little more than temporary, superficial relief.
 
-![alt text](/gusbridge.jpg)
+
 
 It's my joy and mission to share what I've learned to help people move more and in ways that are nourishing to the body and empowering to the individual. 
 
