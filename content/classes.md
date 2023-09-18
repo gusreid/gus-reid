@@ -5,7 +5,7 @@ title = "Classes"
 
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
 
-My in-person classes are aimed at giving your body experiences that are in harmony with your true nature; an experiential contrast to the habits of the conditioned mind, opening up a new possibility - to live as yourself. 
+My in-person classes are aimed at creating the conditions that give your body experiences that are in harmony with your true nature; to provide an experiential contrast to the habits of the conditioned mind; opening up the possibility of new and improved experiences. 
 
 There are three main areas of research we will explore:
 1. Rhythm of Being (pandiculation and Intrinsic Pleasure)
@@ -14,7 +14,7 @@ There are three main areas of research we will explore:
 
 Most classes will have a little of each, but some classes will have an emphasis on one area, which will be reflected in the name of the class. 
 
-See bellow calendar for more details...
+See below calendar for more details...
 
 <div class="post-video">
   <div class="post-video__wrap">
@@ -37,7 +37,7 @@ It might be nice to have a yoga mat for this one, but not absolutely necessary.
 
 Discover the jewel at the heart of every true movement art. 
 
-Influenced by Peter Ralston's powerful body of work - and drawing from martial principles - this is a class exploring what it is to be a body and cultivating the principles that make being a body joyful and effortless. 
+Influenced by Peter Ralston's powerful body of work - and drawing from his martial principles - this is a class exploring what it is to be a body and cultivating the principles that make being a body joyful and effortless. 
 
 - Being calm
 - Relaxing
@@ -54,18 +54,18 @@ Whether you want to compliment your existing movement practice - or just want to
 
 Maintain and improve neuronal health through play!
 
-Telling you what to do is one way of getting you moving. But, I've learned that doing so produces limited results. Insted I like to present a game or task; creating certain constraints and inviting you to find your own way to solve the puzzle. 
+Telling you what to do is one way of getting you moving. But that way has quite limiting results, and is, quite frankly, unrewarding. I prefer turning it into a game or task; creating certain constraints and inviting you to find your own way to complete the task. 
 
-I find this keeps my students engaged in the process, which teaches the body much more than simply repeating a bunch of reps and sets of linear movements - plus it's a lot more enjoyable!
+This way keeps you engaged in the process, which teaches the body much more than busting out reps and sets of a linear movement - plus it's a lot more fun!
 
 There will be Jenga blocks and tennis-balls-on-strings!
 
-Learn tasks that aim to improve:
+We'll work on drills that teach:
 - Balance
 - Coordination
 - Rhythm
 - Relaxation
 
-All ages and abilities welcome, as I can give various levels at which each drill can be approached. 
+Tasks can be adjusted to accommodate all ages and abilities. So everyone can benefit and is welcome to these classes.
 
-Come play!
+Bring a curious and playful attitude!
