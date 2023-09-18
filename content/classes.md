@@ -5,7 +5,7 @@ title = "Classes"
 
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
 
-My in-person classes are aimed at giving your body experiences that are in harmony with your true nature; an experiential contrast to the habits of the conditioned mind, opening up a new possibility - to live as yourself. 
+My in-person classes are aimed at creating the conditions that give your body experiences that are in harmony with your true nature; to provide an experiential contrast to the habits of the conditioned mind; opening up the possibility of new and improved experiences. 
 
 There are three main areas of research we will explore:
 1. Rhythm of Being (pandiculation and Intrinsic Pleasure)
@@ -14,7 +14,7 @@ There are three main areas of research we will explore:
 
 Most classes will have a little of each, but some classes will have an emphasis on one area, which will be reflected in the name of the class. 
 
-See bellow calendar for more details...
+See below calendar for more details...
 
 <div class="post-video">
   <div class="post-video__wrap">
