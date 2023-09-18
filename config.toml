@@ -43,10 +43,10 @@ paginate = 12
 
 
 [params]
-  logo = "images/black-logo.png"
+  logo = "./images/black-logo.png"
   description = "Danto is a news and magazine Hugo theme"
 
-  footer_logo = "images/colored-logo.png"
+  footer_logo = "./images/colored-logo.png"
 
 
   #-------------------------------
