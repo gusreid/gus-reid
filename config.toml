@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Gus Reid|Move True"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
