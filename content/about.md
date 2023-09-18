@@ -3,15 +3,25 @@ title = "About"
 image = 'image.jpg'
 +++
 
-Hi,
+Hi, 
 
-I'm Gus and I'm passionate about movement as a therapeutic tool and vehicle for inner transformation.
+I'm Gus and I'm passionate about movement; not only as a therapeutic tool, but as vehicle for inner transformation. 
 
-It's my joy to help empower you to reconnect to you inner guidance system through movement.
+I was born in the most unlikely of places - Oklahoma City, USA. At age seven I moved to the UK, where I picked up a healthy dose of British conditioning, which (sorry Okies), I'm (mostly) grateful for. I have spent a healthy chunk of my adult life traveling and experiencing different cultures. I have always thought of the world as my playground. I love travel as it represents freedom to me - the most exhilarating feeling I can imagine. A feeling I will continue to cultivate an expand in various ways as long as I live.
 
-Through my own 30+ year journey with persistent pain and musculoskeletal imbalances, and the resulting obsession with finding lasting results, I've cultivated a practice that puts us in touch with the body's innate intelligence that wants what's best for us and our lives.
+I was never athletic growing up. In fact, up until the age of 34, I spent most of my life abusing my body with drink, drugs and party binges. I can see now that, with drugs, I was seeking freedom from acute pain. I was born with a musculoskeletal condition called *pectus excavatum*. Which is a whole-body condition that manifests most obviously as a concaved chest. Not only did this cause me a lot of social anxiety, but it made breathing difficult and movement painful. I was racked with injuries as a child, many of which I'm still rehabilitating. 
 
-My mission is to help ignite your transformational process, so that you can move from a place of inner-knowing and engage with any practice or treatment in a powerfully effective way that moves you towards physical freedom.
+![alt text](/images/gusbridge.jpg)
+
+At age 34 I my life turned upside down. Rapidly declining health and the ending of a tumultuous relationship drove me to figuring out what the hell was going on around here! I wanted to know how I could reconnect with and heal my body. I became obsessed with the healing modalities; studying yoga, taiji, chi gong, calisthenics, mobility, strength training, holistic health, meditation, contemplation, herbal medicine, Ayurveda, breathing techniques, cosmologies and shamanic practices. 
+
+In the beginning I just wanted to heal so I could get back to the party. But eventually I began to accept my new life and allowed this obsession to completely envelop me. I wanted to free myself of all the dogmas of these modalities. To find true and lasting freedom in my body and mind. 
+
+Cutting myself off from most of life's distractions, I took myself away to the Shropshire hills to dive deep into my own experiment. For months at a time, over many years, I would do nothing but study, contemplate, move, and explore my body and mind. I had many breakthroughs into the nature of self, mind, body and the human condition. What I discovered is that my body's shape is largely, of not entirely, due to my inner disposition towards self and life. In my case one of living in a state of anxiety, self-loathing and denial. And that changing my disposition changed my experience... fast. This led me to the understanding that of all the practices I had explored it's not the modality that determines success, but our inner-orientation toward that modality. With the correct inner-orientation, almost any practice can powerfully serve our transformation and expansion. Without it, at  best, they offer little more than temporary, superficial relief.
+
+
+
+It's my joy and mission to share what I've learned to help people move more and in ways that are nourishing to the body and empowering to the individual. 
 
 <!-- ![alt text](/images/58.png) -->
 

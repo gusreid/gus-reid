@@ -3,7 +3,7 @@ title = "home"
 
 [home]
 enable = true
-heading = "Cultivate Self-Empowerment Through the Body"
+heading = "Pursuing Physical Freedom"
 image = "/logo.png"
 
 [forum]
@@ -12,8 +12,8 @@ title = "Sign up for updates"
 para = "No spam, just news on upcoming classes, workshops and articles."
 name = "Full Name"
 email = "Enter Email"
-select = "Which of these describe you the best"
-option1 = "I'm mover"
+select = "Which of these describe you the best?"
+option1 = "I'm a mover"
 option2 = "I'm movement curoius"
 option3 = "I move others"
 btn = "Subscribe Now"
