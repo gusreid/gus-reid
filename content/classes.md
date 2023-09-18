@@ -14,6 +14,12 @@ There are three main areas of research we will explore:
 
 Most classes will have a little of each, but some classes will have an emphasis on one area, which will be reflected in the name of the class. 
 
+<div class="post-video">
+  <div class="post-video__wrap">
+   <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23fd7b33&ctz=Europe%2FLondon&showPrint=0&src=Z3VzdG9qaWppamlAZ21haWwuY29t&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=YTExYWYyZWZlZWMzOTkxMGJlY2EzODUxZTMzZDU4Yjc1MGE3Njk1MGQzMjA1ZjQ0MjE2NTZlMmEyMGRkYzhmZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%237CB342&color=%23F6BF26&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </div>
+</div>
+
 ## Rhythm of Being:
 
 Discover the fullness of Being.
