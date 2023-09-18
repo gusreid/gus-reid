@@ -3,7 +3,7 @@ title = "home"
 
 [home]
 enable = true
-heading = "Cultivate Self-Empowerment Through the Body"
+heading = "Cultivate Through the Body"
 image = "/logo.png"
 
 [forum]
