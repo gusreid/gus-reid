@@ -54,18 +54,18 @@ Whether you want to compliment your existing movement practice - or just want to
 
 Maintain and improve neuronal health through play!
 
-Telling you what to do is one way of getting you moving. But, I've learned that doing so produces limited results. Insted I like to present a game or task; creating certain constraints and inviting you to find your own way to solve the puzzle. 
+Telling you what to do is one way of getting you moving. But that way has quite limiting results, and is, quite frankly, unrewarding. I prefer turning it into a game or task; creating certain constraints and inviting you to find your own way to complete the task. 
 
-I find this keeps my students engaged in the process, which teaches the body much more than simply repeating a bunch of reps and sets of linear movements - plus it's a lot more enjoyable!
+This way keeps you engaged in the process, which teaches the body much more than busting out reps and sets of a linear movement - plus it's a lot more fun!
 
 There will be Jenga blocks and tennis-balls-on-strings!
 
-Learn tasks that aim to improve:
+We'll work on drills that teach:
 - Balance
 - Coordination
 - Rhythm
 - Relaxation
 
-All ages and abilities welcome, as I can give various levels at which each drill can be approached. 
+Tasks can be adjusted to accommodate all ages and abilities. So everyone can benefit and is welcome to these classes.
 
-Come play!
+Bring a curious and playful attitude!
