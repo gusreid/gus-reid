@@ -37,7 +37,7 @@ It might be nice to have a yoga mat for this one, but not absolutely necessary.
 
 Discover the jewel at the heart of every true movement art. 
 
-Influenced by Peter Ralston's powerful body of work - and drawing from martial principles - this is a class exploring what it is to be a body and cultivating the principles that make being a body joyful and effortless. 
+Influenced by Peter Ralston's powerful body of work - and drawing from his martial principles - this is a class exploring what it is to be a body and cultivating the principles that make being a body joyful and effortless. 
 
 - Being calm
 - Relaxing
