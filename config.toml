@@ -38,12 +38,12 @@ paginate = 12
   # Call to action button
   [params.cta_button]
     enable = true
-    cta_button_link = "/"
+    cta_button_link = "./colored-logo.png"
     cta_button_text = "Sign Up"
 
 
 [params]
-  logo = "black-logo.png"
+  logo = "/"
   description = "Danto is a news and magazine Hugo theme"
 
   footer_logo = "colored-logo.png"

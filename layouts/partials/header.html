@@ -5,10 +5,9 @@
       <div class="header__inner col col-12">
 
         <div class="logo">
-          <a class="logo__link" href="/">
+          <a class="logo__link" href="{{ .Site.BaseURL }}">
             {{ if or (.Site.Params.logo) (.Site.Params.logo_dark) }}
-            <img class="logo__image" src=" /black-logo.png" alt="{{ .Site.Title }}">
-            <img class="logo__image__dark" src="{{ .Site.BaseURL }}{{ .Site.Params.logo_dark }}" alt="{{ .Site.Title }}">
+            <img class="logo__image" src="/colored-logo.png" alt="{{ .Site.Title }}">
             {{ else }}
               {{ .Site.Title }}
             {{ end }}
@@ -58,7 +57,7 @@
               <span class="search-button__text">Search</span>
             </div>
             {{ if .Site.Params.cta_button.enable }}
-            <a href="#signUp" class="cta-button button--small nav--button">{{ .Site.Params.cta_button.cta_button_text }}</a>
+            <a href="{{ if .Site.Params.cta_button.cta_button_link }}{{ .Site.Params.cta_button.cta_button_link }}{{ else }}#{{ end }}" class="nav__link cta-button button button--small">{{ .Site.Params.cta_button.cta_button_text }}</a>
             {{ end }}
           </div>
 

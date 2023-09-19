@@ -7,7 +7,7 @@
     align-items: center;
     flex-wrap: wrap;
     padding: $base-spacing-unit;
-    background-color: #FD7B33;
+    background-color: var(--white);
   }
 }
 
@@ -65,7 +65,7 @@
       opacity: 1;
       visibility: visible;
       transform: translate3d(0,0,0);
-      background-color: #FD7B33;
+      background-color: var(--white);
     }
 
     .nav__list {
@@ -149,14 +149,14 @@
       text-underline-offset: 3px;
       text-decoration-color: transparent;
       will-change: transform;
-      color: #111;
+      color: var(--text-alt-color);
 
       &:hover {
-        text-decoration-color: #111;
+        text-decoration-color: var(--text-alt-color);
       }
 
       &.active-link {
-        text-decoration-color: #111;
+        text-decoration-color: var(--text-alt-color);
       }
     }
 
@@ -220,7 +220,7 @@
   text-decoration-color: transparent;
 
   &:hover {
-    text-decoration-color: #111;
+    text-decoration-color: var(--text-alt-color);
   }
 }
 
@@ -255,7 +255,7 @@
   height: 4px;
   border-radius: 10px;
   transition: all 0.15s linear;
-  background-color: #111;
+  background-color: var(--text-alt-color);
 }
 
 .hamburger div:before,
