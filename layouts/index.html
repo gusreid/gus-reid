@@ -3,14 +3,14 @@
 {{ if .enable}}
 
 <section class="home-sect">
-    <div class="bgblack">
-        <div class="content">
-            <h2 id="mainHeading">{{ .heading }}</h2>
-        </div>
-    </div>
     <div class="img">
         <div class="content">
             <img src="{{ .image }}" alt="site logo" class="home-img">
+        </div>
+    </div>
+    <div class="bgblack">
+        <div class="content">
+            <h2 id="mainHeading">{{ .heading }}</h2>
         </div>
     </div>
 {{ end }}
