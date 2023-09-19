@@ -48,13 +48,13 @@ paginate = 12
 
   footer_logo = "colored-logo.png"
 
-
+#Article page setting
   #-------------------------------
   # Hero Settings
   [params.hero]
     enable = true
-    hero__title = "One Stop Daily News, Article, Inspiration, and Tips."
-    hero__description = ""
+    hero__title = "Thoughts, meanderings and musings."  #heading
+    hero__description = ""    #paragraph
 
 
   #-------------------------------
