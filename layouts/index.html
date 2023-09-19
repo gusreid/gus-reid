@@ -5,7 +5,7 @@
 <section class="home-sect">
     <div class="bgblack">
         <div class="content">
-            <h2>{{ .heading }}</h2>
+            <h2 id="mainHeading">{{ .heading }}</h2>
         </div>
     </div>
     <div class="img">
@@ -18,16 +18,16 @@
 
 {{ with .Params.forum }}
 {{ if .enable }}
-    <div class="bgorange">
+    <div class="bgorange" id="signUp">
         <div class="content">
             <h3>{{ .title }}</h3>
             <p class="home-p">{{ .para }}</p>
         </div>
         <div class="forum">
             <form name="contact" method="POST" data-netlify="true">
-                <input type="text" placeholder="{{ .name }}" class="input-box">
-                <input type="email" placeholder="{{ .email }}" class="input-box">
-                <select name="personality" id="personality" class="input-box">
+                <input type="text" placeholder="{{ .name }}" class="input-box" required>
+                <input type="email" placeholder="{{ .email }}" class="input-box" required>
+                <select name="personality" id="personality" class="input-box" required>
                     <option value="describe you">{{ .select }}</option>
                     <option value="mover.">{{ .option1 }}</option>
                     <option value="movement curious.">{{ .option2 }}.</option>

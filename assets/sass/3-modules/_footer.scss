@@ -111,7 +111,7 @@
     align-items: center;
     padding: 4px;
     font-size: 22px;
-    color: var(--heading-font-color);
+    color: var(--text-alt-color);
     will-change: transform;
     transition: $global-transition;
 
@@ -209,10 +209,10 @@
       text-decoration-color: transparent;
       text-decoration-thickness: 1px;
       text-underline-offset: 2px;
-      color: var(--heading-font-color);
+      color: var(--text-alt-color);
 
       &:hover {
-        text-decoration-color: var(--heading-font-color);
+        text-decoration-color: var(--text-alt-color);
       }
     }
   }
@@ -254,11 +254,11 @@
     border: 1px solid var(--border-color);
     border-radius: 60px;
     outline: 0;
-    color: var(--heading-font-color);
+    color: var(--text-alt-color);
     background-color: var(--background-alt-color);
 
     &::placeholder {
-      color: var(--heading-font-color);
+      color: var(--text-alt-color);
     }
   }
 

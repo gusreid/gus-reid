@@ -1,6 +1,6 @@
 +++
 title = "About"
-image = 'image.jpg'
+layout = "classes"
 +++
 
 Hi, 
@@ -56,7 +56,6 @@ It's my mission and joy to share what I've learned, to help people move more and
     </div>
   </div>
   <!-- If we need pagination -->
-  <div class="swiper-pagination"></div>
 
   <!-- If we need navigation buttons -->
   <div class="swiper-button-prev"></div>
