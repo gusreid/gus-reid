@@ -3,6 +3,10 @@ title = "About"
 layout = "classes"
 +++
 
+<div class="article__head" style="">
+    <img src="/images/gus.jpg" alt="image" height="200px" width="200px" style="float: left; margin-right: 15px;">
+</div>
+
 Hi, 
 
 I'm Gus and I'm passionate about movement; not only as a therapeutic tool, but as vehicle for inner transformation. 
