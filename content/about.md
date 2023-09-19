@@ -27,7 +27,7 @@ It's my mission and joy to share what I've learned, to help people move more and
 
 <!--Slider-->
 
-   <h2>Testimonial</h2>
+   <h2>Testimonials</h2>
   <!-- Slider main container -->
 <div class="swiper">
   <!-- Additional required wrapper -->
