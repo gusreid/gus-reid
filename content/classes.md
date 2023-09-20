@@ -3,9 +3,9 @@ layout = "classes"
 title = "Classes"
 +++
 
-https://github.com/gusreid/gus-reid/blob/main/images/gus.jpg
+https://github.com/gusreid/gus-reid/blob/main/images/couldrenclass.jpg
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
-
+https://github.com/gusreid/gus-reid/blob/main/images/couldrenteaching.jpg
 My in-person classes are aimed at creating the conditions that give your body experiences that are in harmony with your true nature; to provide an experiential contrast to the habits of the conditioned mind; opening up the possibility of new and improved experiences. 
 
 There are three main areas of research we will explore:
