@@ -2,7 +2,7 @@
 title: "Mastering the Body to Master Life"
 date: 2023-10-04
 image: 
-tags: [principles, movement, lucid, authenticself, being, body, mind]
+tags: [principles, movement, lucid, authenticself, being, body-mind]
 featured: true
 ---
 
