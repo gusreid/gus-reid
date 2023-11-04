@@ -1,5 +1,5 @@
 ---
-title: "First Post"
+title: "Mastering the Body to Master Life"
 date: 2023-11-04
 image: "/images/gus.jpg"
 tags: []
