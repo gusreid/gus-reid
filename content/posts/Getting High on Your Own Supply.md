@@ -2,7 +2,7 @@
 title: "Getting High on Your Own Supply"
 date: 2023-11-13
 image: 
-tags: psychedelics, drugs, healing, self-reliance, internal arts, medcine
+tags: [psychedelics, drugs, healing, self-reliance, internal arts, medcine]
 featured: true
 ---
 
