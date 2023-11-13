@@ -6,7 +6,7 @@ tags: [psychedelics, drugs, healing, self-reliance, internal arts, medcine]
 featured: true
 ---
 
-##### Psychedelics
+##### Psychedelics:
 ###### A path to higher consciousness or a trap?
 
 What I see psychedelics are good for is shaking up your context. Perhaps to show you what's possible when your energy is up. Beyond that I believe they
