@@ -1,7 +1,7 @@
 ---
 title: "Getting High on Your Own Supply"
 date: 2023-11-13
-image: "blue shrooms.jpeg"
+image: "blue shrooms.jpg"
 tags: [psychedelics, drugs, healing, self-reliance, internal arts, medcine]
 featured: true
 ---
