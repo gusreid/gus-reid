@@ -1,7 +1,7 @@
 ---
 title: "Drugs: Who Needs them?"
 date: 14/11/2023
-image: "/images/.jpg"
+image: "/images/weed.jpg"
 tags: [drugs, MDMA, weed, self-reliance, living lucid]
 featured: true
 ---
