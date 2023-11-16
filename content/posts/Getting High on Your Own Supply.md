@@ -45,4 +45,4 @@ If you are going to experiment with these drugs then I suggest you look into the
 
 If you intend to experience higher states and healing states without assaulting the psyche with extrinsic compounds, and believe that you can, and keep your focus on that outcome, then you can and will. 
 
-As always I am committed to the expansion of humanity through individual empowerment. With these articles I expect to spark these inherent qualities in my reader. 
+As always, I am committed to the expansion of humanity through individual empowerment. With these articles I expect to spark these inherent qualities in my reader. 
