@@ -7,7 +7,7 @@ featured: true
 ---
 
 ##### Psychedelics
-###### A path to higher consciousness or a trap?
+###### A path to higher consciousness or a potential trap?
 
 Having participated in several dozen ayahuasca, huyachuma and mushroom ceremonies - even going through intense training with the Shipibo tribe of the Amazon to become a curandero. Having had hundreds of "less formal" experiences with LSD, mushrooms and various other natural and synthetic psychedelics, from age 13, right up until my mid-forties. And, contrasting the results of all those experiences with those of the internal and external arts, and contemplative practices I've been committed to over the last 13 years, I would like to share some perspective on my observations of the usefulness and sustainability of psychedelic-use for the purpose of transformation - or, what I call, living lucidly. 
 
