@@ -14,11 +14,12 @@ There are three main areas of research we will explore:
 
 Most classes will have a little of each, but some classes will have an emphasis on one area, which will be reflected in the name of the class. 
 
-Link to online classes: https://meet.jit.si/KindDensitiesSupportLovingly
-Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. Online classes are free and donations are gratefully received: 
-https://www.paypal.com/donate/?hosted_button_id=NS545HRZ5LQYA
-
 See below calendar for more details...
+
+Link to online classes: https://meet.jit.si/KindDensitiesSupportLovingly
+Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. 
+Online classes are free and donations are gratefully received: 
+https://www.paypal.com/donate/?hosted_button_id=NS545HRZ5LQYA
 
 <div class="post-video">
   <div class="post-video__wrap">
