@@ -5,7 +5,7 @@ title = "Classes"
 
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
 
-My in-person classes are aimed at creating the conditions that give your body experiences that are in harmony with your true nature; to provide an experiential contrast to the habits of the conditioned mind; opening up the possibility of new and improved experiences. 
+My classes are aimed at creating the conditions that give your body experiences that are in harmony with your true nature; to provide an experiential contrast to the habits of the conditioned mind; opening up the possibility of new and improved experiences. 
 
 There are three main areas of research we will explore:
 1. Rhythm of Being (pandiculation and Intrinsic Pleasure)
@@ -13,6 +13,9 @@ There are three main areas of research we will explore:
 3. Task-Oriented Training
 
 Most classes will have a little of each, but some classes will have an emphasis on one area, which will be reflected in the name of the class. 
+
+Link to online classes: https://meet.jit.si/KindDensitiesSupportLovingly
+Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. Online classes are free and donations are welcome. 
 
 See below calendar for more details...
 
