@@ -19,7 +19,7 @@ See below calendar for more details...
 Link to online classes: https://meet.jit.si/KindDensitiesSupportLovingly
 Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. 
 Online classes are free and donations are gratefully received:
-<a href="[button link]" class="nav__link cta-button button button--small">[https://www.paypal.com/donate/?hosted_button_id=NS545HRZ5LQYA]</a>
+[<a href="[button link]" class="nav__link cta-button button button--small">[https://www.paypal.com/donate/?hosted_button_id=NS545HRZ5LQYA]</a>](https://www.paypal.com/donate/?hosted_button_id=NS545HRZ5LQYA)
 
 <div class="post-video">
   <div class="post-video__wrap">
