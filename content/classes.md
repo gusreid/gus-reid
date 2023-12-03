@@ -11,9 +11,9 @@ What's possible when we live our lives from a state of relaxed, open, grounded a
 
 My classes are aimed at creating the conditions that give your body experiences that are in harmony with your true nature; to provide an experiential contrast to the habits of the conditioned mind; opening up the possibility of new and improved experiences. 
 
-###### Learn to *be* more alive, present, embodied, balanced and whole, by...
+##### Learn to be more alive, present, embodied, balanced and whole, by...
 
-###### Exploring the five principles of an effortlessly effective body-being. 
+##### Exploring the five principles of an effortlessly effective body-being. 
 - Being calm
 - Relaxing
 - Moving from the centre
