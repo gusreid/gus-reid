@@ -20,7 +20,7 @@ My classes are aimed at creating the conditions that give your body experiences 
 - Being grounded
 - Feeling the whole body and the space around the body
 
-###### Through...
+##### Through...
 - Visualisation and feeling-states
 - Task-oriented training
 - Pandiculation and intrinsic pleasure
