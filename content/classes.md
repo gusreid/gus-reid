@@ -5,6 +5,10 @@ title = "Classes"
 
 #### Online Classes:
 
+Link to online classes: https://meet.jit.si/KindDensitiesSupportLovingly
+
+Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. 
+
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
 
 My classes are aimed at creating the conditions that give your body experiences that are in harmony with your true nature; to provide an experiential contrast to the habits of the conditioned mind; opening up the possibility of new and improved experiences. 
@@ -25,13 +29,9 @@ My classes are aimed at creating the conditions that give your body experiences 
 - Resurfacing and rewiring subconscious patterns
 
 At the moment I am doing 7am (UK), Mondays and Wednesdays, and 9am (UK) Saturdays. 
-Am open to adding some evening sessions if there is interest. 
+Am open to adding some evening sessions if the interest is there. 
 
 See below calendar for more details...
-
-Link to online classes: https://meet.jit.si/KindDensitiesSupportLovingly
-
-Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. 
 
 Online classes are free and donations are gratefully received:
 <a href="https://www.paypal.com/donate/?hosted_button_id=NS545HRZ5LQYA" class="nav__link cta-button button button--small">Donate Now</a>
