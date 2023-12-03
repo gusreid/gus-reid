@@ -3,8 +3,6 @@ layout = "classes"
 title = "Classes"
 +++
 
-# Classes:
-
 #### Online Classes:
 
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
@@ -32,6 +30,7 @@ Am open to adding some evening sessions if there is interest.
 See below calendar for more details...
 
 Link to online classes: https://meet.jit.si/KindDensitiesSupportLovingly
+
 Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. 
 
 Online classes are free and donations are gratefully received:
