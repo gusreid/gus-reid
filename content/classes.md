@@ -5,8 +5,8 @@ title = "Classes"
 
 #### Online Classes:
 
-Link to online classes: https://meet.jit.si/KindDensitiesSupportLovingly
-<a href="https://meet.jit.si/KindDensitiesSupportLovingly">Class Link</a>
+Link to online classes:  <a href="https://meet.jit.si/KindDensitiesSupportLovingly">Class Link</a>
+
 Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. 
 
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
