@@ -29,7 +29,7 @@ Am open to adding some evening sessions if there is interest.
 
 See below calendar for more details...
 
-Link to online classes: https://meet.jit.si/KindDensitiesSupportLovingly
+Link to online classes: <iframe allow="camera; microphone; fullscreen; display-capture; autoplay" src="https://meet.jit.si/KindDensitiesSupportLovingly" style="height: 100%; width: 100%; border: 0px;"></iframe> https://meet.jit.si/KindDensitiesSupportLovingly
 
 Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. 
 
