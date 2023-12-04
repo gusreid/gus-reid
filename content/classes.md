@@ -5,6 +5,8 @@ title = "Classes"
 
 #### Online Classes:
 
+<a href="https://meet.jit.si/KindDensitiesSupportLovingly" class="nav__link cta-button button button--small">Class Link</a>
+
 <a href="https://meet.jit.si/KindDensitiesSupportLovingly">Class Link</a>
 
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
