@@ -7,8 +7,6 @@ title = "Classes"
 
 <a href="https://meet.jit.si/KindDensitiesSupportLovingly" class="nav__link cta-button button button--small">Class Link</a>
 
-<a href="https://meet.jit.si/KindDensitiesSupportLovingly">Class Link</a>
-
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
 
 My classes are aimed at creating the conditions that give your body experiences that are in harmony with your true nature; to provide an experiential contrast to the habits of the conditioned mind; opening up the possibility of new and improved experiences. 
@@ -36,7 +34,7 @@ See below calendar for more details...
 Online classes are free and donations are gratefully received:
 <a href="https://www.paypal.com/donate/?hosted_button_id=NS545HRZ5LQYA" class="nav__link cta-button button button--small">Donate Now</a>
 
-Join now: <a href="https://meet.jit.si/KindDensitiesSupportLovingly">Class Link</a>
+Join now: <a href="https://meet.jit.si/KindDensitiesSupportLovingly" class="nav__link cta-button button button--small">Class Link</a>
 
 Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. 
 
