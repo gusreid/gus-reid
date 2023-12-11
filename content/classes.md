@@ -19,6 +19,7 @@ My classes are aimed at creating the conditions that give your body experiences 
 <div class="article__head" style="">
     <img src="/images/couldrenclass.jpg" alt="image" height="200px" width="200px" style="float: right; margin-left: 15px;">
 </div>
+
 - Being calm
 - Relaxing
 - Moving from the centre
