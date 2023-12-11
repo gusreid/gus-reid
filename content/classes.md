@@ -7,6 +7,7 @@ title = "Classes"
 <div class="article__head" style="">
     <img src="/images/couldrenteaching.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
+
 <a href="https://meet.jit.si/KindDensitiesSupportLovingly" class="nav__link cta-button button button--small">Class Link</a>
 
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
@@ -17,7 +18,7 @@ My classes are aimed at creating the conditions that give your body experiences 
 
 ##### Exploring the five principles of an effortlessly effective body-being. 
 <div class="article__head" style="">
-    <img src="/images/couldrenclass.jpg" alt="image" height="200px" width="200px" style="float: right; margin-left: 15px;">
+    <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
 
 - Being calm
