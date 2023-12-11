@@ -5,7 +5,7 @@ title = "Classes"
 
 #### Online Classes:
 <div class="article__head" style="">
-    <img src="/images/couldrenclass.jpg" alt="image" height="200px" width="200px" style="float: right; margin-left: 15px;">
+    <img src="/images/couldrenteaching.jpg" alt="image" height="200px" width="200px" style="float: right; margin-left: 15px;">
 </div>
 <a href="https://meet.jit.si/KindDensitiesSupportLovingly" class="nav__link cta-button button button--small">Class Link</a>
 
@@ -16,6 +16,9 @@ My classes are aimed at creating the conditions that give your body experiences 
 ##### Learn to be more alive, present, embodied, balanced and whole, by...
 
 ##### Exploring the five principles of an effortlessly effective body-being. 
+<div class="article__head" style="">
+    <img src="/images/couldrenclass.jpg" alt="image" height="200px" width="200px" style="float: right; margin-left: 15px;">
+</div>
 - Being calm
 - Relaxing
 - Moving from the centre
