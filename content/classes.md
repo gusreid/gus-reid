@@ -3,13 +3,12 @@ layout = "classes"
 title = "Classes"
 +++
 
-<div class="article__head" style="">
-    <img src="/images/couldrenclass.jpg" alt="image" height="200px" width="200px" style="float: right; margin-left: 15px;">
-</div>
-
 #### Online Classes:
 
 <a href="https://meet.jit.si/KindDensitiesSupportLovingly" class="nav__link cta-button button button--small">Class Link</a>
+<div class="article__head" style="">
+    <img src="/images/couldrenclass.jpg" alt="image" height="200px" width="200px" style="float: right; margin-left: 15px;">
+</div>
 
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
 
