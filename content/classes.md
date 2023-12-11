@@ -5,7 +5,7 @@ title = "Classes"
 
 #### Online Classes:
 <div class="article__head" style="">
-    <img src="/images/couldrenteaching.jpg" alt="image" height="200px" width="200px" style="float: right; margin-left: 15px;">
+    <img src="/images/couldrenteaching.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
 <a href="https://meet.jit.si/KindDensitiesSupportLovingly" class="nav__link cta-button button button--small">Class Link</a>
 
