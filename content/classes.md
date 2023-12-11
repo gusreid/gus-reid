@@ -6,7 +6,7 @@ title = "Classes"
 #### Online Classes:
 <a href="https://meet.jit.si/KindDensitiesSupportLovingly" class="nav__link cta-button button button--small">Class Link</a>
 <div class="article__head" style="">
-    <img src="/images/couldrenteaching.jpg" alt="image" height="410px" width="410px" style="float: right; margin-left: 15px;">
+    <img src="/images/couldrenteaching.jpg" alt="image" height="420px" width="420px" style="float: right; margin-left: 15px;">
 </div>
 
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
