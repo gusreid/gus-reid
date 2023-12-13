@@ -32,8 +32,8 @@ My classes are aimed at creating the conditions that give your body experiences 
 - Pandiculation and intrinsic pleasure
 - Resurfacing and rewiring subconscious patterns
 
-At the moment I am doing 7am (UK), Mondays and Wednesdays, and 9am (UK) Saturdays. 
-Am open to adding some evening sessions if the interest is there. 
+Classes are about an hour, starting at 8am (UK), Mondays and Wednesdays, and 9am (UK) Saturdays. 
+Am open to adding some afternoon and evening sessions if the interest is there. 
 
 See below calendar for more details...
 
