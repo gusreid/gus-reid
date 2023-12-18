@@ -8,7 +8,9 @@ title: Work with Me
 ### "It's not the answer that enlightens, it's the question."
 — Eugene Ionesco
 
-Through asking questions we get to reveal the uncognised mind and become conscious of the habits that keep us stuck in disempowering cycles. 
+Through asking questions we get to reveal the uncognised mind and become conscious of the habits that keep us stuck in disempowering cycles. Helping us to let go of unnecessary dispositions, freeing us to create a life that's in alignment with our highest purpose. 
 
-For individual support email gus@gusreid.com for more details and to book a free consultation call. 
+One good question, properly aimed, can change a life. 
+
+Email gus@gusreid.com for more details and to book a free consultation call. 
 
