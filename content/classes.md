@@ -52,3 +52,4 @@ Link works in browser and/or through the Jitsi app on your phone or tablet. I su
 
 
 Bring a curious and playful attitude!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bZr7jFNkBz0?si=Uxc1CQXQgf_n-NrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
