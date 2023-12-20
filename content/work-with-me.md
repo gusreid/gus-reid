@@ -33,7 +33,7 @@ Through asking questions we get to reveal the uncognised mind and become conscio
 
 *One good question, properly aimed, can change a life.*
 
-As we learn to identify with Being, rather than acting out from the conditioned reactive mind, we begin to see that all the tension, resistance, pain and discomfort we experience is actually something we are actively creating in the now. From this presence and clear-seeing we are empowered to disengage from such activities and relax into who and what we are. 
+In the communication of our experience to another we reveal the uncognised mind and clear space, allowing us to rest in the presence of who we are. As we learn to identify with Being, rather than acting out from the conditioned reactive mind, we begin to see that all the tension, resistance, pain and discomfort we experience is actually something we are actively creating in the now. From this presence and clear-seeing we are empowered to disengage from such activities and relax into who and what we are. 
 
 If you have any questions, feel free to drop me an email at [gus@gusreid.com](mailto:gus@gusreid.com) 
 
