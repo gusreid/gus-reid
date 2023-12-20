@@ -11,11 +11,11 @@ My goal is to help you live a lucid and empowered life through releasing attachm
 
 ### Cultivating awareness through the body:
 
-It's my experience that the mind and body are inextricable linked. In fact, it's more accurate to say they are not disconnected to begin with. However, due to cultural and social conventions, we grow up in an environment that teaches us otherwise. And so a separation appears to happen in our experience. Through movement, and orientation towards *intrinsic pleasure*, we get to map out these "blind spots" and work to reintegrate them into our experience. 
+It's my experience that the mind and body are inextricably linked. In fact, it's more accurate to say that there is *no* mind-body disconnection to begin with. However, due to cultural and social conventions, we grow up in an environment that teaches us otherwise. And so a separation appears to happen in our experience. Through movement, and orientation towards *intrinsic pleasure*, we get to map out these apparent *dis*integrated aspects and work to reintegrate them into our experience. 
 
 *The body doesn't lie.*
 
-The body knows how to heal. One-to-one sessions are an opportunity to explore tools that uncover the body's intuitive healing capacity; moving us towards alignment, harmony, strength, power and pleasure. 
+The body knows how to heal. One-to-one sessions are an opportunity to explore tools that uncover the body's intuitive healing capacity; moving us towards alignment, harmony, strength, power, pleasure and vitality. 
 
 I also offer personalised movement programs, designed around your needs and goals.
 
