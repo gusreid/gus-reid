@@ -9,9 +9,10 @@ My goal is to help you live a lucid and empowered life through releasing attachm
 - Cultivating awareness through the body, and
 - Ontological investigation
 
+These two domains of study work hand-in-hand, and students that study both have the best results. 
 ### Cultivating awareness through the body:
 
-It's my experience that the mind and body are inextricably linked. In fact, it's more accurate to say that there is no mind-body *disconnection* to begin with. However, due to cultural and social conventions, we grow up in an environment that teaches us otherwise. And so a separation appears to happen in our experience. Consequently, mental and emotional habits, assumptions and dispositions show up in our posture and physiology. Through movement, and orientation towards *intrinsic pleasure*, we get to map out these apparent *dis*integrated aspects and work to reintegrate them into our experience; harmonising mind, body and emotions. 
+It's my experience that the mind and body are inextricably linked. In fact, it's more accurate to say that there is no mind-body *disconnection* to begin with. However, due to cultural and social conventions, we grow up in an environment that teaches us otherwise. And so a perceived separation seems to happen. And that perceived experience has very real consequences for our health and vitality. These mental and emotional habits, assumptions and dispositions show up in our posture and physiology. Through movement, and orientation towards *intrinsic pleasure*, we get to map out these apparent *dis*integrated aspects, re-experience them in a new context, and work to reintegrate them into our experience; harmonising mind, body and emotions. 
 
 *The body doesn't lie.*
 
