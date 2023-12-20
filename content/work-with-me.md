@@ -5,7 +5,7 @@ title: Work with Me
 
 ## 1-to-1 Sessions and Individualised Programmes:
 
-My goal is to help you live a lucid and empowered life through unveiling the ucognised mind. There are two domains of study I am equipped to support you with in this pursuit:
+My goal is to help you live a lucid and empowered life through releasing attachment to mind-identification and allowing yourself to just be. There are two domains of study I am equipped to support you with in this pursuit:
 - Cultivating awareness through the body, and
 - Ontological investigation
 
@@ -25,7 +25,7 @@ Depending where you are in your relationship with your body depends on where we 
 
 #### "It's not the answer that enlightens, it's the question."
 — Eugene Ionesco
-###### Ontology
+##### Ontology
 - *The branch of metaphysics that deals with the nature of being.*
 
 Through asking questions we get to reveal the uncognised mind and become conscious of the habits that keep us stuck in disempowering cycles. Questions narrow the focus of the mind into a single point. When the mind is focused in this way it becomes a powerful tool for penetrating and dissecting the uncognised mind; helping us to let go of unnecessary dispositions, revealing an ever-present state of Being. 
@@ -35,4 +35,5 @@ Through asking questions we get to reveal the uncognised mind and become conscio
 As we learn to identify with Being, rather than acting out from the conditioned reactive mind, we begin to see that all the tension, resistance, pain and discomfort we experience is actually something we are actively creating in the now. From this presence and clear-seeing we are empowered to disengage from such activities and relax into who and what we are. 
 
 If you have any questions, feel free to drop me an email at [gus@gusreid.com](mailto:gus@gusreid.com) 
-If you're curious about working with me drop me a message and schedule a free consultation call. 
+
+I offer free consultation calls to anyone interested in working with me. Just drop me a message to schedule a time.    
