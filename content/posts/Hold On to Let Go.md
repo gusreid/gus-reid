@@ -6,6 +6,7 @@ tags: [relaxing, letting go, practice]
 featured: true
 ---
 
+
 #### Introduction
 One of the best things we can do for our health, life and relationships is to train the mind. And one of the most beneficial things we can train the mind to do is let go. 
 
