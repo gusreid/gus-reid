@@ -12,7 +12,7 @@ One of the best things we can do for our health, life and relationships is to tr
 
 #### Relaxation 
 <div class="article__head" style="">
-    <img src="/images/holdonletgo.jpg" alt="image" height="200px" width="200px" style="float: right; margin-left: 15px;">
+    <img src="/images/holdonletgo.jpg" alt="image" height="250px" width="250px" style="float: right; margin-left: 15px;">
 </div>
 Relaxation is the precursor to anything effective in this life. Whether it's communicating, playing a sport or being creative; adopting a relaxed state is going to bring about more desirable results than if we're tense. And letting go is the precursor to relaxation. 
 
