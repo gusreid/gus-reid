@@ -10,11 +10,12 @@ featured: true
 #### Introduction
 One of the best things we can do for our health, life and relationships is to train the mind. And one of the most beneficial things we can train the mind to do is let go. 
 
-#### Relaxation
-Relaxation is the precursor to anything effective in this life. Whether it's communicating, playing a sport or being creative; adopting a relaxed state is going to bring about more desirable results than if we're tense. And letting go is the precursor to relaxation. 
+#### Relaxation 
 <div class="article__head" style="">
     <img src="/images/holdonletgo.jpg" alt="image" height="200px" width="200px" style="float: right; margin-left: 15px;">
 </div>
+Relaxation is the precursor to anything effective in this life. Whether it's communicating, playing a sport or being creative; adopting a relaxed state is going to bring about more desirable results than if we're tense. And letting go is the precursor to relaxation. 
+
 But why are we so tense? There are countless reasons why we hold unconscious tension in our bodies. From old injuries and resulting bracing and compensatory habits; to mental and emotional dispositions, based on core assumptions about self, others, and life. 
 
 
