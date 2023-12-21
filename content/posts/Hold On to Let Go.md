@@ -17,6 +17,7 @@ Relaxation is the precursor to anything effective in this life. Whether it's com
 </div>
 But why are we so tense? There are countless reasons why we hold unconscious tension in our bodies. From old injuries and resulting bracing and compensatory habits; to mental and emotional dispositions, based on core assumptions about self, others, and life. 
 
+
 #### Practice
 There are many ways to cultivate a relationship with the principle of letting go. One way I have found to be very effective is through movement. In some schools they teach us to contract the body into a habitual posture, essentially exaggerating the undesired position, and then slowly letting that go and moving out of it to neutral or the opposite extreme. What this does is bring an unconscious habit "forward" into our conscious awareness, empowering us by revealing to us that the tension we hold is something we are actually actively creating right now, albeit unrecognised. Then, from a consciously contracted state we educate the body how to release that tension; effectively rewiring our nervous system to let go of the unconscious tension habit. With lots of training the letting go principle takes on a life of its own and the habit of letting go eventually recedes into the unconscious and a new disposition is formed. 
 
