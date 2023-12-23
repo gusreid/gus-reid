@@ -1,6 +1,6 @@
 ---
 title: "Hold On to Let Go"
-date: 21/12/2023
+date: 2023-12-21
 image: "/images/grip.jpg"
 tags: [relaxing, letting go, practice]
 featured: true
