@@ -36,6 +36,8 @@ My classes are aimed at creating the conditions that give your body experiences 
 Classes are about an hour, starting at 8am (UK), Mondays and Wednesdays, and 9am (UK) Saturdays. 
 Am open to adding some afternoon and evening sessions if the interest is there. 
 
+Sometimes we use objects like Jenga blocks in class. It might be handy to have some of these to hand. I suggest having 3 or more objects and a ball (more or less football sized) to hand. It's not essential, but can be useful.  If you don't have Jenga blocks, you could use anything. Like lighters, spoons, candles, coins, pens etc. 
+
 See below calendar for more details...
 
 Online classes are free and donations are gratefully received:
