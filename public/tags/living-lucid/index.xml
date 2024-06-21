@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Living Lucid on Gus Reid|Move True</title>
+    <link>//localhost:1313/tags/living-lucid/</link>
+    <description>Recent content in Living Lucid on Gus Reid|Move True</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/living-lucid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drugs: Who Needs Them?</title>
+      <link>//localhost:1313/articles/drugs/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/articles/drugs/</guid>
+      <description>Here&amp;rsquo;s a spontaneous bit about MDMA and weed:&#xA;Enjoy, Gus</description>
+    </item>
+  </channel>
+</rss>

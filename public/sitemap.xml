@@ -2,26 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/authors/admin/</loc>
+    <loc>//localhost:1313/articles/mastering-the-body-to-master-life1/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/authors/justin/</loc>
+    <loc>//localhost:1313/articles/getting-high-on-your-own-supply/</loc>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/authors/kaiya/</loc>
+    <loc>//localhost:1313/articles/breakthroughs-and-intention/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/authors/livia/</loc>
+    <loc>//localhost:1313/articles/drugs/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/about/</loc>
+    <loc>//localhost:1313/articles/hold-on-to-let-go/</loc>
+    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/authors/</loc>
+    <loc>//localhost:1313/articles/two-paths---distraction-or-obstacle/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/featured/</loc>
+    <loc>//localhost:1313/tags/addiction/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/videos/</loc>
+    <loc>//localhost:1313/articles/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/</loc>
+    <loc>//localhost:1313/tags/clarity/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/posts/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://64d0b7b97fce354f0ef0a23f--genuine-granita-63ac8c.netlify.app/tags/</loc>
+    <loc>//localhost:1313/tags/intention/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/relapse/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/struggle/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/suffering/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/creativity/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/procrastination/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/purpose/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/work/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/letting-go/</loc>
+    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/practice/</loc>
+    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/relaxing/</loc>
+    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/drugs/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/living-lucid/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/mdma/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/self-reliance/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/weed/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/healing/</loc>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/internal-arts/</loc>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/medcine/</loc>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/psychedelics/</loc>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/authenticself/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/being/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/body-mind/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/lucid/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/movement/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/principles/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/authors/admin/</loc>
+  </url><url>
+    <loc>//localhost:1313/authors/justin/</loc>
+  </url><url>
+    <loc>//localhost:1313/authors/kaiya/</loc>
+  </url><url>
+    <loc>//localhost:1313/authors/livia/</loc>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/authors/</loc>
+  </url><url>
+    <loc>//localhost:1313/classes/</loc>
+  </url><url>
+    <loc>//localhost:1313/work-with-me/</loc>
   </url>
 </urlset>
