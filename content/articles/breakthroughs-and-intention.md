@@ -1,7 +1,7 @@
 ---
 title: "Breakthroughs and Intention"
-date: 2024-06-21
-image: "/images/struggle.jpg"
+date: 2024-06-22
+image: "/images/Struggle.jpg"
 tags: [addiction, relapse, struggle, suffering, clarity, intention]
 type: posts
 weight: 3
