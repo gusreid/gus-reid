@@ -2,28 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/articles/mastering-the-body-to-master-life1/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/articles/getting-high-on-your-own-supply/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/articles/breakthroughs-and-intention/</loc>
-    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/articles/drugs/</loc>
-    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/articles/hold-on-to-let-go/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/articles/two-paths---distraction-or-obstacle/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/addiction/</loc>
     <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/articles/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/articles/breakthroughs-and-intention/</loc>
     <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/clarity/</loc>
@@ -56,8 +41,14 @@
     <loc>//localhost:1313/tags/purpose/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/articles/two-paths---distraction-or-obstacle/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/work/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/articles/hold-on-to-let-go/</loc>
+    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/letting-go/</loc>
     <lastmod>2023-12-21T00:00:00+00:00</lastmod>
@@ -71,6 +62,9 @@
     <loc>//localhost:1313/tags/drugs/</loc>
     <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/articles/drugs/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/living-lucid/</loc>
     <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -82,6 +76,9 @@
   </url><url>
     <loc>//localhost:1313/tags/weed/</loc>
     <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/articles/getting-high-on-your-own-supply/</loc>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/healing/</loc>
     <lastmod>2023-11-13T00:00:00+00:00</lastmod>
@@ -105,6 +102,9 @@
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/lucid/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/articles/mastering-the-body-to-master-life1/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/movement/</loc>

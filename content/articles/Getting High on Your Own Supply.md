@@ -4,7 +4,6 @@ date: 2023-11-13
 image: "/images/blue-shrooms.jpg"
 tags: [psychedelics, drugs, healing, self-reliance, internal arts, medcine]
 type: posts
-weight: 2
 ---
 
 ##### Psychedelics

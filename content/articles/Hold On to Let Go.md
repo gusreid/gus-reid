@@ -4,7 +4,6 @@ date: 2023-12-21
 image: "/images/grip.jpg"
 tags: [relaxing, letting go, practice]
 type: posts
-weight: 4
 ---
 
 

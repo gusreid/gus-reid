@@ -4,7 +4,6 @@
 
 <!-- begin tags -->
 <section class="section tags">
-
   <div class="tags__inner">
     <div class="container">
       <div class="row">
@@ -25,7 +24,6 @@
       </div>
     </div>
   </div>
-
 </section>
 <!-- end tags -->
 
@@ -41,18 +39,60 @@
 </section>
 <!-- end hero -->
 
+<!-- begin latest-post -->
+<section class="section featured-post animate">
+  <div class="container">
+    <div class="section__inner">
+      <div class="row">
+        <div class="col col-3 col-d-12">
+          <div class="row">
+            {{ range (slice (index (first 5 (where .Site.RegularPages "Type" "posts")) 1) (index (first 5 (where .Site.RegularPages "Type" "posts")) 2)) }}
+              <div class="col col-12 col-d-6 col-t-12">
+                {{ partial "article.html" (dict "context" .) }}
+              </div>
+            {{ end }}
+          </div>
+        </div>
+
+        <div class="col col-6 col-d-12">
+          <div class="row">
+            {{ $post := index (first 5 (where .Site.RegularPages "Type" "posts")) 0 }}
+            <div class="col col-12 col-t-12">
+              {{ partial "article.html" (dict "context" $post "class" "article--big") }}
+            </div>
+          </div>
+        </div>
+
+        <div class="col col-3 col-d-12">
+          <div class="row">
+            {{ $counter := 0 }}
+            {{ range (slice (index (first 5 (where .Site.RegularPages "Type" "posts")) 3) (index (first 5 (where .Site.RegularPages "Type" "posts")) 4)) }}
+              {{ $counter = add $counter 1 }}
+              <div class="col col-12 col-d-6 col-t-12">
+                {{ partial "article.html" (dict "context" .) }}
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end latest-post -->
+
+<!-- begin other-posts -->
 <section class="section">
   <div class="container">
     <div class="row grid">
-    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts" ) }}
-    {{ range $index, $element := $paginator.Pages }}
-      {{ partial "article.html" (dict "context" . "class" "col col-4 col-d-6 col-t-12 animate article--grid") }}
-    {{ end }}
+      {{ $paginator := .Paginate (after 5 (where .Site.RegularPages "Type" "posts")) }}
+      {{ range $index, $element := $paginator.Pages }}
+        {{ partial "article.html" (dict "context" . "class" "col col-4 col-d-6 col-t-12 animate article--grid") }}
+      {{ end }}
     </div>
   </div>
-
-{{ partial "pagination.html" . }}
+  {{ partial "pagination.html" . }}
+</section>
+<!-- end other-posts -->
 
 {{ end }}
-
 {{ end }}

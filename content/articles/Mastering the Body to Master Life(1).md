@@ -4,7 +4,6 @@ date: 2023-10-04
 image: "/images/metamorphosis.jpg"
 tags: [principles, movement, lucid, authenticself, being, body-mind]
 type: posts
-weight: 1
 ---
 
 ## Mastering the Body to Master Life

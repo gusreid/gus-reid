@@ -4,7 +4,6 @@ date: 2023-11-14
 image: "/images/weed.jpg"
 tags: [drugs, MDMA, weed, self-reliance, living lucid]
 type: posts
-weight: 3
 ---
 
 Here's a spontaneous bit about MDMA and weed:

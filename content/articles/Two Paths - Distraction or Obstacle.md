@@ -4,7 +4,6 @@ date: 2024-06-15
 image: "/images/Dog leaping.jpg"
 tags: [procrastination, creativity, work, purpose]
 type: posts
-weight: 5
 ---
 
 
