@@ -2,7 +2,7 @@
 # General Site Settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Gus Reid|Move True"
+title = "Gus Reid | Move True"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 12
 
