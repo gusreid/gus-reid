@@ -88,7 +88,7 @@ Consider: Was it easier or more difficult to create an image of the feet compare
 
 There's no right or wrong here, we're just trying to be honest. 
 
-So, to recap:
+### Recap:
 
 - When embarking on any pursuit of change, be it grasping an existential principle or distinction, overcoming an addiction or changing a habit, it is more effective to *intend* to get to the truth of the matter and be *open* to a new experience, than it is to rely on on willpower or a sequence of steps to "technique" our way our of our condition. 
 - All techniques are invented and are only good for the job hey are good for. Intending to know the truth will weather every storm and is the, often, missing ingredient that breathes life into all effective techniques. 
