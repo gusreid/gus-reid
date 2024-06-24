@@ -88,6 +88,16 @@ paginate = 12
     name = "Instagram"
     link = "https://www.instagram.com/gustamove/"
 
+  [[params.social]]
+    icon = "ion-logo-youtube"
+    name = "Youtube"
+    link = "https://youtube.com/@thegusreid?si=Yw58YHu1vNPaPvK4"
+
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter"
+    link = "https://x.com/TheGusReid?s=09"
+
   # Example of adding a new link to the footer section:
   # [[params.social]]
   #   icon = "ion-logo-vimeo"
