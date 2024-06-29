@@ -108,13 +108,8 @@ paginate = 12
 
 
   # Newsletter
-  [params.mailchimp]
+  [params.convertkit]
     enable = true
-    mailchimp__title = "Sign Up Now"
-    mailchimp__description = ""
-    mailchimp__identifier = "/"
-    mailchimp__input__text = "Your email address"
-    mailchimp__button__text = "Sign Up"
 
 
   #-------------------------------
