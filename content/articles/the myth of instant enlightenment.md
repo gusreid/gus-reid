@@ -135,7 +135,7 @@ Openness is a state; one we can create. I recall when I was at a four-week conte
 
 I didn’t know what to do with this at the time, but I knew I had had a breakthrough into a fundamental aspect of reality. Later on during the workshop I began opening into this experience more and more. My mind was no longer solely fixated on objects, but was now beginning to include the space in which they were held. I was walking in the woods when suddenly it was as if my entire experience flipped inside out. "I" became the "space" in which objects appeared. I became the **context** to the **content** of reality.
 
-This was mind-blowing, so I told Peter about it. I was disappointed because he told me to keep working, that what I had experienced was not what were contemplating (which was to have a direct experience of my true nature).
+This was a mind-blowing experience that opened up a portl into a new way of being in the world.
 
 That was in 2017. I did virtually nothing with that until 2020, when I began to have a series of breakthroughs into the same distinction. I won’t go into all the details but I had two or three **big-whammy** experiences that blew my mind. But no sooner had they appeared, they vanished.
 
