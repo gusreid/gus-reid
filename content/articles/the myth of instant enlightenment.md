@@ -144,11 +144,12 @@ What I realised was that the conditions in which they arose were when I was
 - **focusing** on my direct experience, 
 - **open** to seeing something I wasn’t already seeing (not-knowing),
 - in a state of **questioning** 
+
 (take note of those four words in bold - they are not arbitrary)
 
 What I’ve come to see is that these four components are what make up contemplation, and in an attitude of contemplation the truth reveals itself directly.
 
-My peak experiences into openness were only mind-blowing from a closed state - what I’ve come to understand as a *narrow focus* - One that is fixated on the objective world.
+My peak experiences into openness were only mind-blowing from a closed state - what I’ve come to understand as a *narrow focus* - a way of focusing that is fixated on the objective world.
 
 Over time I have learned to train the opposite - *Open-focus* - and to be able to be flexible in how I transition between these two types of focus.
 
@@ -160,12 +161,6 @@ This has led to a massive reduction in stress and overwhelm, and greater access 
 I could have an insight or revelation into the nature of self, mind, being a body, money, social-survival, polarity or any other distinction in my awareness. But we have to do the reps to fully stabilise and inhabit that reality.
 
 My job is not to tell you what to do or how to do it. My job is to show you what’s true and let you find your way out of your own unique maze.
-
-The truth is you’re scared of the hard work.
-- The commitment
-- The discomfort
-- The sacrifices
-- The adaptation
 
 ### Conclusion
 Seeing the truth is only the beginning of the journey towards mastery of a domain of our experience. 
