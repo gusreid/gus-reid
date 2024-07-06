@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Instant Enlightenment"
 date: 2024-07-06
-image: "/images/.jpg"
+image: "/images/Instant camera.jpg"
 tags: [clarity, enlightenment, truth, empowerment]
 type: posts
 ---
