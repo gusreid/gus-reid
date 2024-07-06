@@ -87,13 +87,14 @@ Whether we’re talking about a breakthrough in our experience of:
 - **mind**,
 - **reality** 
 - **ultimate truth** (there’s a LOT of enlightenments to be had!)
+
 ...slipping back into old ways of being and relating is inevitable when you consider the overwhelming momentum of decades of past habits.
 
 *Becoming conscious of the truth happens in an instant - aligning the body-mind to that reality can take years.*
 
 Here's an analogy/ metaphor thingy (everybody loves one of those, right?):
 
-I was just out playing on my slackline. And it occurred to me that [[Balance is not a technique]] - it's a skill (an effective way of relating). It is the alignment to a certain reality - one we all participate in, whether we acknowledge it or not - the reality of being a body relating to gravity, ground and space. 
+I was just out playing on my slackline. And it occurred to me that balance is not a technique - it's a skill (an effective way of relating). It is the alignment to a certain reality - one we all participate in, whether we acknowledge it or not - the reality of being a body relating to gravity, ground and space. 
 
 When I am effectively aligned to these components and forces it's called _balance_. I can have moments of balance, where I am totally relaxed and relating to the environment effectively - these can be seen as our **events** (insights, breakthroughs or enlightenment experiences). But it's through **process** (consistently fluctuating between balance and off-balance) that the body learns to rest in a dynamically-aligned relationship to said components and forces. By experiencing the difference in feeling between balance and off-balance, I learn to create the *feeling* of balance in order to create the *experience* of balance. Over time I learn to live *as* a "balanced person". 
 
