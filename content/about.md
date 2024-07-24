@@ -10,10 +10,10 @@ layout = "classes"
 
 
 Hi, 
-
 I'm Gus:
 - Mover
 - Hermit
+- Traveller
 - Leo
 - Manifesting Generator: 6/2
 - Big-picture thinker
@@ -22,17 +22,15 @@ Mover is at the top of that list because of the profound impact it has had on my
 
 After a radical decline in health, back in 2010, I walked away from a lifestyle of all-night parties, drugs, booze and general debauchery. And I started what would become a life-defining journey into movement and spirituality. 
 
-After a life of escapism learning to feel again was a long and uncomfortable journey. But spurred on by a deep yearning for truth and alignment I have persevered; escapism instead to face the pain and discomfort, and learn whatever lessons I needed to in order to live an authentic and aligned life. 
+After a life of escapism learning to feel again was a long and uncomfortable journey. But spurred on by a deep yearning for truth and alignment I have persevered; choosing instead to face the pain and discomfort, and learn whatever lessons I needed to in order to live an authentic and aligned life. 
 
-I was born with a musculoskeletal condition called *pectus excavatum*; a whole-body condition that manifests most obviously as a concaved chest. Not only did this cause me a lot of social anxiety, but it made breathing difficult and movement painful. I was racked with injuries as a child, and shied away from sports and physical activity. 
+I was born with a musculoskeletal condition called *pectus excavatum*; a whole-body condition that manifests most obviously as a concaved chest. Not only did this cause me a lot of social anxiety as a young lad, but it made breathing difficult and movement painful. I was racked with injuries as a child, and shied away from sports and physical activity. 
 
 Quitting my avoidance strategies was tough, and I went through many years of being highly reactive and sensitive. This has taught me that pain effects our moods and moods effect our experience of pain - if not outright *creates* it. 
 
 My intuition told me that, despite having an instrument that was chronically out of tune, I could still find inner and outer alignment and harmony. That journey continues, with a 1% improvement with each day I practice. 
 
-My journey with pain and misalignment; and the gradual improvement I've seen over the last years has taught me a deep and profound respect for the human body. And it is my position that fully inhabiting every molecule of our body's - *on a feeling-sense level* - is the foundation of a truly embodied spiritual life. 
-
-I'm passionate about movement; not only as a therapeutic tool, but as vehicle for inner transformation. And I'm on a mission to share the revelatory potential of movement to awaken the wisdom of the body. 
+My journey with pain and misalignment; and the gradual improvement I've seen over the last years has taught me a deep and profound respect for the human body. And it is my position that fully inhabiting every molecule of our body - *on a feeling-sense level* - is the foundation of a truly embodied spiritual life. 
 
 ![alt text](/images/gusbridge.jpg)
 
@@ -40,7 +38,9 @@ I like to think of myself as a *specialised-generalist*: 14+ years of study, pra
 
 Movement is about more than just getting fit, longevity or preventing illness. It has the potential to be the vehicle through which we awaken the uncognised aspects of our mind; revealing and reversing repressed emotions and dispositions towards self, life and others.
 
-As we become more aligned with and centred in our being and essential nature we become more confident and competent - the world begins to open up for us and shit just works right! 
+As we become more aligned with - *and centred in* - our being and essential nature we become more confident, competent and graceful - the world begins to open up for us and shit just works right! 
+
+I'm passionate about movement; not only as a therapeutic tool, but as vehicle for inner transformation. And I'm on a mission to share the revelatory potential of movement to awaken the wisdom of the body. 
 
 <!-- ![alt text](/images/58.png) -->
 
