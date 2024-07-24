@@ -3,13 +3,15 @@ layout = "classes"
 title = "Classes"
 +++
 
-#### Online Classes:
+%% #### Online Classes:
 <a href="https://meet.jit.si/KindDensitiesSupportLovingly" class="nav__link cta-button button button--small">Class Link</a>
 <div class="article__head" style="">
     <img src="/images/couldrenteaching.jpg" alt="image" height="450px" width="450px" style="float: right; margin-left: 15px;">
-</div>
+</div> %%
 
 What's possible when we live our lives from a state of relaxed, open, grounded awareness; meeting life centred in our being, whole and complete? 
+
+
 
 My classes are aimed at creating the conditions that give your body experiences that are in harmony with your true nature; to provide an experiential contrast to the habits of the conditioned mind; opening up the possibility of new and improved experiences. 
 
@@ -33,7 +35,7 @@ My classes are aimed at creating the conditions that give your body experiences 
 - Pandiculation and intrinsic pleasure
 - Resurfacing and rewiring subconscious patterns
 
-Classes are about an hour, starting at 8am (UK), Mondays and Wednesdays, and 9am (UK) Saturdays. 
+%% Classes are about an hour, starting at 8am (UK), Mondays and Wednesdays, and 9am (UK) Saturdays. 
 Am open to adding some afternoon and evening sessions if the interest is there. 
 
 Sometimes we use objects like Jenga blocks in class. It might be handy to have some of these to hand. I suggest having 3 or more objects and a ball (more or less football sized) to hand. It's not essential, but can be useful.  If you don't have Jenga blocks, you could use anything. Like lighters, spoons, candles, coins, pens etc. 
@@ -45,7 +47,7 @@ Online classes are free and donations are gratefully received:
 
 Join now: <a href="https://meet.jit.si/KindDensitiesSupportLovingly" class="nav__link cta-button button button--small">Class Link</a>
 
-Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. 
+Link works in browser and/or through the Jitsi app on your phone or tablet. I suggest you bookmark the link in your browser for ease of access. %%
 
 <div class="post-video">
   <div class="post-video__wrap">
