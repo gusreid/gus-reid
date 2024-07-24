@@ -40,6 +40,8 @@ I like to think of myself as a *specialised-generalist*: 14+ years of study, pra
 
 Movement is about more than just getting fit, longevity or preventing illness. It has the potential to be the vehicle through which we awaken the uncognised aspects of our mind; revealing and reversing repressed emotions and dispositions towards self, life and others.
 
+As we become more aligned with and centred in our being and essential nature we become more confident and competent - the world begins to open up for us and shit just works right! 
+
 <!-- ![alt text](/images/58.png) -->
 
 <!--Slider-->
