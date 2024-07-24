@@ -3,7 +3,7 @@ title = "home"
 
 [home]
 enable = true
-heading = "Pursuing Physical Freedom"
+heading = "Movement: Unleashed"
 image = "/colored-logo.png"
 
 [forum]
