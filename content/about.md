@@ -7,25 +7,38 @@ layout = "classes"
     <img src="/images/gus.jpg" alt="image" height="200px" width="200px" style="float: left; margin-right: 15px;">
 </div>
 
+
+
 Hi, 
 
-I'm Gus and I'm passionate about movement; not only as a therapeutic tool, but as vehicle for inner transformation. 
+I'm Gus:
+- Mover
+- Hermit
+- Leo
+- Manifesting Generator: 6/2
+- Big-picture thinker
 
-I was born in the most unlikely of places - Oklahoma City, USA. At age seven I moved to the UK, where I picked up a healthy dose of British conditioning, which (sorry Okies), I'm (mostly) grateful for. I have spent a healthy chunk of my adult life traveling and experiencing different cultures. I have always thought of the world as my playground. I love travel as it represents freedom to me - the most exhilarating feeling I can imagine. A feeling I will continue to cultivate an expand in various ways as long as I live.
+Mover is at the top of that list because of the profound impact it has had on my health, mind and spiritual development. 
 
-I was never athletic growing up. In fact, up until the age of 34, I spent most of my life abusing my body with drink, drugs and party binges. I can see now that, with drugs, I was seeking freedom from acute pain. I was born with a musculoskeletal condition called *pectus excavatum*. Which is a whole-body condition that manifests most obviously as a concaved chest. Not only did this cause me a lot of social anxiety, but it made breathing difficult and movement painful. I was racked with injuries as a child, some of which I'm still rehabilitating. 
+After a radical decline in health, back in 2010, I walked away from a lifestyle of all-night parties, drugs, booze and general debauchery. And I started what would become a life-defining journey into movement and spirituality. 
+
+After a life of escapism learning to feel again was a long and uncomfortable journey. But spurred on by a deep yearning for truth and alignment I have persevered; escapism instead to face the pain and discomfort, and learn whatever lessons I needed to in order to live an authentic and aligned life. 
+
+I was born with a musculoskeletal condition called *pectus excavatum*; a whole-body condition that manifests most obviously as a concaved chest. Not only did this cause me a lot of social anxiety, but it made breathing difficult and movement painful. I was racked with injuries as a child, and shied away from sports and physical activity. 
+
+Quitting my avoidance strategies was tough, and I went through many years of being highly reactive and sensitive. This has taught me that pain effects our moods and moods effect our experience of pain - if not outright *creates* it. 
+
+My intuition told me that, despite having an instrument that was chronically out of tune, I could still find inner and outer alignment and harmony. That journey continues, with a 1% improvement with each day I practice. 
+
+My journey with pain and misalignment; and the gradual improvement I've seen over the last years has taught me a deep and profound respect for the human body. And it is my position that fully inhabiting every molecule of our body's - *on a feeling-sense level* - is the foundation of a truly embodied spiritual life. 
+
+I'm passionate about movement; not only as a therapeutic tool, but as vehicle for inner transformation. And I'm on a mission to share the revelatory potential of movement to awaken the wisdom of the body. 
 
 ![alt text](/images/gusbridge.jpg)
 
-At age 34 I my life turned upside down. Rapidly declining health and the ending of a relationship drove me to want to figure out what the hell was going on around here! I was deeply unwell and disconnected from my body. I became obsessed with transformational and healing modalities; traveling the world, studying yoga, taiji, chi gong, calisthenics, mobility, strength training, holistic health, meditation, contemplation, herbal medicine, Ayurveda, breathing techniques, cosmologies and shamanic practices. 
+I like to think of myself as a *specialised-generalist*: 14+ years of study, practice and contemplation into many of the healing arts; traveling the world - working with masters from yoga, taiji, chi gong, calisthenics, mobility, strength training, movement culture, dance, holistic health, meditation, contemplation, herbal medicine, Ayurveda, breathing techniques, cosmologies and shamanic practices - has equipped me with a broad and multi-disciplined, practical worldview. 
 
-In the beginning I just wanted to heal so I could get back to the party. But eventually I began to accept my new life and allowed this obsession to completely envelop me. I wanted to free myself of all the dogmas of these modalities. To find true and lasting freedom in my body and mind. 
-
-Cutting myself off from most of life's distractions, I took myself away to the Shropshire hills to dive deep into my own experiment. For months at a time, over many years, I would do nothing but study, contemplate, move, and explore my body and mind. This led to many breakthroughs into the nature of self, mind, body and the human condition. What I discovered is that my body's shape is largely, of not entirely, due to my inner disposition towards self and life. In my case one of living in a state of anxiety, self-loathing and denial. And that changing my disposition changed my experience... fast. I began to see that of all the practices I had explored it's not the modality that determines success, but our inner-orientation toward that modality. With the correct inner-orientation, almost any practice can powerfully serve our transformation and expansion. Without it, at  best, they offer little more than temporary, superficial relief.
-
-Through a combination of focus, intention, openness, serendipity and powerful teachers I have discovered a set of principles that, if cultivated, can move the body toward its natural state of wellbeing and alignment. 
-
-It's my mission and joy to share what I've learned; to help people move more and in ways that are nourishing to the body and empowering to the individual.
+Movement is about more than just getting fit, longevity or preventing illness. It has the potential to be the vehicle through which we awaken the uncognised aspects of our mind; revealing and reversing repressed emotions and dispositions towards self, life and others.
 
 <!-- ![alt text](/images/58.png) -->
 
