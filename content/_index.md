@@ -3,8 +3,7 @@ title = "home"
 
 [home]
 enable = true
-heading = "Movement: Unleashed"
-image = "/colored-logo.png"
+image = "/Movement Unleashed 1.png"
 
 [forum]
 enable = true
