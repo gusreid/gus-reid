@@ -19,7 +19,7 @@ Classes are between 1 to 1.5 hours.
 There are limited yoga mats, so it might be an idea to bring your own, if you have one. 
 **Learn to be more alive, present, embodied, balanced and whole, by...**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bZr7jFNkBz0?si=Uxc1CQXQgf_n-NrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-**Exploring the five principles of an effortlessly effective body-being.**
+**Exploring the five principles of an effortlessly effective body.**
 <div class="article__head" style="">
     <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
@@ -27,8 +27,8 @@ There are limited yoga mats, so it might be an idea to bring your own, if you ha
 - Being calm
 - Relaxing
 - Moving from the centre
-- Being grounded
-- Feeling the whole body and the space around the body
+- Grounding
+- Unifying the whole body
 **Through...**
 - Visualisation and feeling-states
 - Task-oriented training
