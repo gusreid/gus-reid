@@ -10,7 +10,9 @@ layout = "classes"
 
 
 Hi, 
-I'm Gus:
+I'm Gus;
+
+
 - Mover
 - Hermit
 - Traveller
