@@ -16,8 +16,10 @@ Discover and embody the principles *behind* the movement arts.
 </div>
 - Book a one-off class - **£10** [Book Now](https://gusreid.ck.page/products/1-x-unleashed-movement-class)
 - Book a block of 4 classes - **£35** [Book Now](https://gusreid.ck.page/products/3-x-unleashed-movement-classes)
+
 Classes are between 1 to 1.5 hours.
 There are limited yoga mats, so it might be an idea to bring your own, if you have one. 
+
 **Learn to be more alive, present, embodied, balanced and whole, by...**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bZr7jFNkBz0?si=Uxc1CQXQgf_n-NrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 **Exploring the five principles of an effortlessly effective body-being.**
