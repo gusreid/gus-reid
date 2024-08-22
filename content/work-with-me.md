@@ -5,7 +5,7 @@ title: Work with Me
 
 I know from experience that making lasting changes in the body can be a confusing and overwhelming challenge. Having someone to help you create a strategy and to show you the pitfalls can be very helpful in your process. 
 
-My goal in our work together is to empower you to be able to navigate the change process. For this you will need a certain amount of education. 
+My goal in our work together is to empower you to be able to navigate the change process with as much efficiency and effectiveness as possible. For this you will need a certain amount of education. 
 
 There are three areas we will be focused on:
 1. Pain-neuroscience
@@ -14,7 +14,7 @@ There are three areas we will be focused on:
 
 Studying *and practicing* these three areas will set you up for a meaningful and lifelong movement practice. You will be left with an experiential understanding of why pain exists, how to manage it, how to overcome pain and get stronger and more mobile, and how to progress within your practice over a lifetime. Moving you towards goals that will increase your health and energy levels. 
 
-On top of the education component is **practice, practice, practice...**
+On top of the education component we *must* **practice, practice, practice...**
 ## Individualised Programmes
 If you want to really change something about your body you need consistent, intelligent inputs over a long period. There are no short cuts when it comes to true, authentic and long-lasting change. 
 
@@ -24,7 +24,7 @@ I always recommend working with at least 12-week blocks of training to get the b
 
 With each programme you will get access to my educational portal and an orientation call with me, where we will address your challenges and obstacles, and identify some goals that are meaningful to your life. 
 
-From there we will *co-create* a programme based on what came up in the call. 
+From there we will *co-create* a programme based on what came up in the call. Programmes will include a *tensile* training programme, with *elastic* training, *dynamic conditioning* and *mobility*. Starting off where you are and gaining in complexity as you progress. 
 
 I will be available via WhatsApp throughout the duration of your programme to give feedback on any videos you wish to send, and to answer your questions. 
 
@@ -33,12 +33,18 @@ If you are on the 12-week programme we will adjust your programme every 4 weeks 
 - [5-week individualised programme](https://gusreid.ck.page/products/5-week-individualised-programme) with 1 phase - **£130** [Buy Now](https://gusreid.ck.page/products/5-week-individualised-programme)
 - [12-week individualised programme](https://gusreid.ck.page/products/12-week-individualised-programme) with 3 phases - **£250** [Buy Now](https://gusreid.ck.page/products/12-week-individualised-programme)
 ## Live 1-to-1 Coaching
-Sometimes people need closer guidance in the beginning of their journey towards moving better. So I also offer 1-to-1 in-person or online coaching calls. 
+Sometimes people need closer guidance in the beginning of their journey towards moving better. So I also offer 1-to-1 in-person or online coaching calls. In these calls we can address your specific limitations, not only in the physical domain, but also how your mind is sabotaging your progress. 
 
-These are best used in conjunction with a 5- or 12-week programme.
+Don't underestimate the mind's role in your condition - whatever it may be. The narratives we hold have a very powerful effect on our bodies and our lives. 
+
+*There's no deep and lasting change without also addressing the mind.* 
+
+These sessions are best used in conjunction with a 5- or 12-week programme. That way we have tangible context within which to work. Having a truly meaningful goal very often brings up our resistance to change. This the the perfect opportunity to reveal our conditioned mind and to pivot our energies to align with our values. 
 
 - [1 x 1-to-1 coaching session](https://gusreid.ck.page/products/1-x-1-to-1-coaching-call) - **£65** [Buy Now](https://gusreid.ck.page/products/1-x-1-to-1-coaching-call)
 - [3 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session) - **£150** [Buy Now](https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session)
 - [6 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/6-x-coaching-sessions) - **£250** [Buy Now](https://gusreid.ck.page/products/6-x-coaching-sessions)
+
+
 
 
