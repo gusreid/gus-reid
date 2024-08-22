@@ -8,14 +8,15 @@ title = "Classes"
 What's possible when we live our lives from a state of **relaxed**, **open**, **grounded** awareness; meeting life **centred** in our being, **whole and complete**? 
 
 Discover and embody the principles *behind* the movement arts. 
+- 1 class - **£10** [Book Now](https://gusreid.ck.page/products/1-x-unleashed-movement-class)
+- 4 classes - **£35** [Book Now](https://gusreid.ck.page/products/3-x-unleashed-movement-classes)
+
 ### Class timetable:
 <div class="post-video">
   <div class="post-video__wrap">
    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23fd7b33&ctz=Europe%2FLondon&showPrint=0&showTitle=0&src=Z3VzdG9qaWppamlAZ21haWwuY29t&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=YTExYWYyZWZlZWMzOTkxMGJlY2EzODUxZTMzZDU4Yjc1MGE3Njk1MGQzMjA1ZjQ0MjE2NTZlMmEyMGRkYzhmZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%237CB342&color=%23F6BF26&color=%23F09300" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
   </div>
 </div>
-- 1 class - **£10** [Book Now](https://gusreid.ck.page/products/1-x-unleashed-movement-class)
-- 4 classes - **£35** [Book Now](https://gusreid.ck.page/products/3-x-unleashed-movement-classes)
 
 Classes are between 1 to 1.5 hours.
 There are limited yoga mats, so it might be an idea to bring your own, if you have one. 
