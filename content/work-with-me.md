@@ -3,7 +3,6 @@ layout: classes
 title: Work with Me
 ---
 
-# Work with Me
 I know from experience that making lasting changes in the body can be a confusing and overwhelming challenge. Having someone to help you create a strategy and to show you the pitfalls can be very helpful in your process. 
 
 My goal in our work together is to empower you to be able to navigate the change process. For this you will need a certain amount of education. 
