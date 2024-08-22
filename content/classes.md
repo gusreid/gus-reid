@@ -4,7 +4,6 @@ title = "Classes"
 +++
 
 
-
 # In-Person Classes: 
 What's possible when we live our lives from a state of **relaxed**, **open**, **grounded** awareness; meeting life **centred** in our being, **whole and complete**? 
 
