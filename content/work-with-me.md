@@ -37,14 +37,13 @@ Sometimes people need closer guidance in the beginning of their journey towards 
 
 Don't underestimate the mind's role in your condition - whatever it may be. The narratives we hold have a very powerful effect on our bodies and our lives. 
 
-*There's no deep and lasting change without also addressing the mind.* 
+*No deep and lasting change in the body is possible without also addressing the mind.* 
 
-These sessions are best used in conjunction with a 5- or 12-week programme. That way we have tangible context within which to work. Having a truly meaningful goal very often brings up our resistance to change. This the the perfect opportunity to reveal our conditioned mind and to pivot our energies to align with our values. 
+These sessions are best used in conjunction with a 5- or 12-week programme. That way we have a tangible context within which to work. Having a truly meaningful goal very often brings up our resistance to change. This the the perfect opportunity to reveal our conditioned mind and to pivot our energies to align with our values. 
 
 - [1 x 1-to-1 coaching session](https://gusreid.ck.page/products/1-x-1-to-1-coaching-call) - **£65** [Buy Now](https://gusreid.ck.page/products/1-x-1-to-1-coaching-call)
 - [3 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session) - **£150** [Buy Now](https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session)
 - [6 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/6-x-coaching-sessions) - **£250** [Buy Now](https://gusreid.ck.page/products/6-x-coaching-sessions)
-
 
 
 
