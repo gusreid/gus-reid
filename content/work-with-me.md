@@ -32,8 +32,10 @@ If you are on the 12-week programme we will adjust your programme every 4 weeks 
 
 - [5-week individualised programme](https://gusreid.ck.page/products/5-week-individualised-programme) with 1 phase - **£130** [Buy Now](https://gusreid.ck.page/products/5-week-individualised-programme)
 - [12-week individualised programme](https://gusreid.ck.page/products/12-week-individualised-programme) with 3 phases - **£250** [Buy Now](https://gusreid.ck.page/products/12-week-individualised-programme)
+
+My hope is that by the end of a 12 week training block you will have the skills, knowledge and experience to keep going on your own - to be able to create your own meaningful movement practice whilst knowing how to keep progressing *for life*. 
 ## Live 1-to-1 Coaching
-Sometimes people need closer guidance in the beginning of their journey towards moving better. So I also offer 1-to-1 in-person or online coaching calls. In these calls we can address your specific limitations, not only in the physical domain, but also how your mind is sabotaging your progress. 
+Sometimes people need closer guidance in the beginning of their journey towards moving better. So I also offer 1-to-1 in-person or online coaching. In these sessions we can address your specific limitations, not only in the physical domain, but also how your mind is sabotaging your progress. 
 
 Don't underestimate the mind's role in your condition - whatever it may be. The narratives we hold have a very powerful effect on our bodies and our lives. 
 
@@ -44,6 +46,7 @@ These sessions are best used in conjunction with a 5- or 12-week programme. That
 - [1 x 1-to-1 coaching session](https://gusreid.ck.page/products/1-x-1-to-1-coaching-call) - **£65** [Buy Now](https://gusreid.ck.page/products/1-x-1-to-1-coaching-call)
 - [3 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session) - **£150** [Buy Now](https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session)
 - [6 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/6-x-coaching-sessions) - **£250** [Buy Now](https://gusreid.ck.page/products/6-x-coaching-sessions)
+
 
 
 
