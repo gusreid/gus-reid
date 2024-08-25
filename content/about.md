@@ -16,9 +16,6 @@ I'm Gus;
 - Mover
 - Hermit
 - Traveller
-- Leo
-- Manifesting Generator: 6/2
-- Big-picture thinker
 
 Mover is at the top of that list because of the profound impact it has had on my health, mind and spiritual development. 
 
