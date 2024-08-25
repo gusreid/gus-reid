@@ -7,21 +7,14 @@ layout = "classes"
     <img src="/images/gus.jpg" alt="image" height="200px" width="200px" style="float: left; margin-right: 15px;">
 </div>
 
-
-
 Hi, 
-I'm Gus;
+I'm Gus; mover, hermit traveller. 
 
+Movement is at the top of that list because of the profound impact that consciously moving my body has had on my health, mind and growth. 
 
-- Mover
-- Hermit
-- Traveller
+After a radical decline in health, back in 2010, I walked away from a lifestyle of all-night parties, drugs, booze and general debauchery. And I started what would become a life-defining journey into movement, health and consciousness. 
 
-Mover is at the top of that list because of the profound impact it has had on my health, mind and spiritual development. 
-
-After a radical decline in health, back in 2010, I walked away from a lifestyle of all-night parties, drugs, booze and general debauchery. And I started what would become a life-defining journey into movement and spirituality. 
-
-After a life of escapism learning to feel again was a long and uncomfortable journey. But spurred on by a deep yearning for truth and alignment I have persevered; choosing instead to face the pain and discomfort, and learn whatever lessons I needed to in order to live an authentic and aligned life. 
+Decades of escapism left me numb and very disconnected from my body and feelings. Learning to feel again has been an uncomfortable journey at times. But a deep yearning for truth and alignment I has keep me committed the pain and discomfort, and learn whatever lessons I needed to in order to live an authentic and aligned life. 
 
 I was born with a musculoskeletal condition called *pectus excavatum*; a whole-body condition that manifests most obviously as a concaved chest. Not only did this cause me a lot of social anxiety as a young lad, but it made breathing difficult and movement painful. I was racked with injuries as a child, and shied away from sports and physical activity. 
 
@@ -40,6 +33,8 @@ Movement is about more than just getting fit, longevity or preventing illness. I
 As we become more aligned with - *and centred in* - our being and essential nature we become more confident, competent and graceful - the world begins to open up for us and shit just works right! 
 
 I'm passionate about movement; not only as a therapeutic tool, but as vehicle for inner transformation. And I'm on a mission to share the revelatory potential of movement to awaken the wisdom of the body. 
+
+
 
 <!-- ![alt text](/images/58.png) -->
 
