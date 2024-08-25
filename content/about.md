@@ -8,7 +8,7 @@ layout = "classes"
 </div>
 
 Hi, 
-I'm Gus; mover, hermit traveller. 
+I'm Gus; mover, hermit, traveller. 
 
 Movement is at the top of that list because of the profound impact that consciously moving my body has had on my health, mind and growth. 
 
