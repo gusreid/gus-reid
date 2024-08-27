@@ -30,8 +30,8 @@ I will be available via WhatsApp throughout the duration of your programme to gi
 
 If you are on the 12-week programme we will adjust your programme every 4 weeks to make sure you're progressing effectively towards your goals. 
 
-- [5-week individualised programme](https://gusreid.ck.page/products/5-week-individualised-programme) with 1 phase - **£130** {{< button link="https://gusreid.ck.page/products/5-week-individualised-programme" text="Buy Now" >}}
-- [12-week individualised programme](https://gusreid.ck.page/products/12-week-individualised-programme) with 3 phases - **£250** {{< button link="https://gusreid.ck.page/products/12-week-individualised-programme" text="Buy Now" >}}
+- [5-week individualised programme](https://gusreid.ck.page/products/5-week-individualised-programme) with 1 phase - {{< button link="https://gusreid.ck.page/products/5-week-individualised-programme" text="Buy Now £130" >}}
+- [12-week individualised programme](https://gusreid.ck.page/products/12-week-individualised-programme) with 3 phases -  {{< button link="https://gusreid.ck.page/products/12-week-individualised-programme" text="Buy Now £250" >}}
 
 My hope is that by the end of a 12 week training block you will have the skills, knowledge and experience to keep going on your own - not only to be able to create your *own* meaningful movement practice , but also to be able to understand how to progressively overload the exercises *for life*. 
 
@@ -44,12 +44,14 @@ Don't underestimate the mind's role in your condition - whatever it may be. The 
 
 These sessions are best used in conjunction with a 5- or 12-week programme. That way we have a tangible context within which to work. Having a truly meaningful goal very often brings up our resistance to change. This the the perfect opportunity to reveal our conditioned mind and to pivot our energies to align with our values. 
 
-- [1 x 1-to-1 coaching session](https://gusreid.ck.page/products/1-x-1-to-1-coaching-call) - **£65** {{< button link="https://gusreid.ck.page/products/1-x-1-to-1-coaching-call" text="Buy Now" >}}
-- [3 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session) - **£150** {{< button link="https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session" text="Buy Now" >}}
-- [6 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/6-x-coaching-sessions) - **£250** {{< button link="https://gusreid.ck.page/products/6-x-coaching-sessions" text="Buy Now" >}}
+- [1 x 1-to-1 coaching session](https://gusreid.ck.page/products/1-x-1-to-1-coaching-call) -  {{< button link="https://gusreid.ck.page/products/1-x-1-to-1-coaching-call" text="£65 - Buy Now" >}}
+- [3 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session) -  {{< button link="https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session" text="£150 Buy Now" >}}
+- [6 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/6-x-coaching-sessions) -  {{< button link="https://gusreid.ck.page/products/6-x-coaching-sessions" text="£250 Buy Now" >}}
 
 Whatever you choose to do - work with me, work with another coach, or figure things out on your own - I wish you an expansive and dynamic *body*, *mind* and *life*. 
 
 Gus
+
+
 
 
