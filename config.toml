@@ -46,7 +46,7 @@ paginate = 12
   logo = "/"
   description = "Danto is a news and magazine Hugo theme"
 
-  footer_logo = "colored-logo.png"
+  footer_logo = "Movement Unleashed 1.png"
 
 #Article page setting
   #-------------------------------

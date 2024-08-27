@@ -63,7 +63,7 @@
 
   .logo-footer__image,
   .logo-footer__image__dark {
-    max-height: 50px;
+    max-height: 150px;
   }
 
   .logo-footer__image__dark {
@@ -93,7 +93,7 @@
     flex-wrap: wrap;
 
     .social__item:first-child > .social__link {
-      padding-left: 0;
+      padding-left: 15px;
     }
   }
 
