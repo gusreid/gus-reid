@@ -7,10 +7,13 @@ layout = "classes"
     <img src="/images/gus.jpg" alt="image" height="200px" width="200px" style="float: left; margin-right: 15px;">
 </div>
 
-Hi, 
-I'm Gus; mover, hermit, traveller. 
 
-Movement is at the top of that list because of the profound impact that consciously moving my body has had on my health, mind and growth. 
+Hi, 
+I'm Gus; mover, hermit traveller. 
+
+Mover is at the top of that list because of the profound impact that consciously moving my body has had on my health, mind and growth. 
+
+But it's not always been that way. When I was young I was far from athletic. 
 
 After a radical decline in health, back in 2010, I walked away from a lifestyle of all-night parties, drugs, booze and general debauchery. And I started what would become a life-defining journey into movement, health and consciousness. 
 
@@ -22,11 +25,11 @@ Quitting my avoidance strategies was tough, and I went through many years of bei
 
 My intuition told me that, despite having an instrument that was chronically out of tune, I could still find inner and outer alignment and harmony. That journey continues, with a 1% improvement with each day I practice. 
 
-My journey with pain and misalignment; and the gradual improvement I've seen over the last years has taught me a deep and profound respect for the human body. And it is my position that fully inhabiting every molecule of our body - *on a feeling-sense level* - is the foundation of a truly embodied spiritual life. 
+My journey with pain and misalignment; and the gradual improvement I've seen over the last years has taught me a deep and profound respect for the human body. And it is my position that fully inhabiting every molecule of our body - *on a feeling-sense level* - is the foundation of living a truly empowered and embodied life. 
 
 ![alt text](/images/gusbridge.jpg)
 
-I like to think of myself as a *specialised-generalist*: 14+ years of study, practice and contemplation into many of the healing arts; traveling the world - working with masters from yoga, taiji, chi gong, calisthenics, mobility, strength training, movement culture, dance, holistic health, meditation, contemplation, herbal medicine, Ayurveda, breathing techniques, cosmologies and shamanic practices - has equipped me with a broad and multi-disciplined, practical worldview. 
+I guess I'm kind of a *specialised-generalist*: 14+ years of study, practice and contemplation into many of the healing arts; traveling the world - working with masters from yoga, taiji, chi gong, calisthenics, mobility, strength training, movement culture, dance, holistic health, meditation, contemplation, herbal medicine, Ayurveda, breathing techniques, cosmologies and shamanic practices - has equipped me with a broad, non-dogmatic, multi-disciplined, practical worldview. 
 
 Movement is about more than just getting fit, longevity or preventing illness. It has the potential to be the vehicle through which we awaken the uncognised aspects of our mind; revealing and reversing repressed emotions and dispositions towards self, life and others.
 
