@@ -7,7 +7,6 @@ layout = "classes"
     <img src="/images/gus.jpg" alt="image" height="200px" width="200px" style="float: left; margin-right: 15px;">
 </div>
 
-
 Hi, 
 I'm Gus; mover, hermit traveller. 
 
@@ -17,13 +16,13 @@ But it's not always been that way. When I was young I was far from athletic.
 
 After a radical decline in health, back in 2010, I walked away from a lifestyle of all-night parties, drugs, booze and general debauchery. And I started what would become a life-defining journey into movement, health and consciousness. 
 
-Decades of escapism left me numb and very disconnected from my body and feelings. Learning to feel again has been an uncomfortable journey at times. But a deep yearning for truth and alignment I has keep me committed the pain and discomfort, and learn whatever lessons I needed to in order to live an authentic and aligned life. 
+Decades of escapism left me numb and very disconnected from my body and feelings. Learning to feel again has been an uncomfortable journey at times. But a deep yearning for truth and alignment has keep me committed. That *commitment* and *intent*, along with a *questioning disposition* and an ever-increasing *openness* has served me in my pursuit for deeper understanding. It's helped me stay focused through the emotional and energetic ups and downs of the transformation process. 
 
 I was born with a musculoskeletal condition called *pectus excavatum*; a whole-body condition that manifests most obviously as a concaved chest. Not only did this cause me a lot of social anxiety as a young lad, but it made breathing difficult and movement painful. I was racked with injuries as a child, and shied away from sports and physical activity. 
 
 Quitting my avoidance strategies was tough, and I went through many years of being highly reactive and sensitive. This has taught me that pain effects our moods and moods effect our experience of pain - if not outright *creates* it. 
 
-My intuition told me that, despite having an instrument that was chronically out of tune, I could still find inner and outer alignment and harmony. That journey continues, with a 1% improvement with each day I practice. 
+My intuition told me that, despite having an instrument that was chronically out of tune, I could still find inner and outer alignment and harmony. That journey continues, with a 1% improvement each day I practice. 
 
 My journey with pain and misalignment; and the gradual improvement I've seen over the last years has taught me a deep and profound respect for the human body. And it is my position that fully inhabiting every molecule of our body - *on a feeling-sense level* - is the foundation of living a truly empowered and embodied life. 
 
