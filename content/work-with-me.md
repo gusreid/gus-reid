@@ -44,9 +44,9 @@ Don't underestimate the mind's role in your condition - whatever it may be. The 
 
 These sessions are best used in conjunction with a 5- or 12-week programme. That way we have a tangible context within which to work. Having a truly meaningful goal very often brings up our resistance to change. This the the perfect opportunity to reveal our conditioned mind and to pivot our energies to align with our values. 
 
-- [1 x 1-to-1 coaching session](https://gusreid.ck.page/products/1-x-1-to-1-coaching-call) -  {{< button link="https://gusreid.ck.page/products/1-x-1-to-1-coaching-call" text="£65 - Buy Now" >}}
-- [3 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session) -  {{< button link="https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session" text="£150 Buy Now" >}}
-- [6 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/6-x-coaching-sessions) -  {{< button link="https://gusreid.ck.page/products/6-x-coaching-sessions" text="£250 Buy Now" >}}
+- [1 x 1-to-1 coaching session](https://gusreid.ck.page/products/1-x-1-to-1-coaching-call) -  {{< button link="https://gusreid.ck.page/products/1-x-1-to-1-coaching-call" text="Buy Now £65" >}}
+- [3 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session) -  {{< button link="https://gusreid.ck.page/products/3-x-1-1-5-hour-coaching-session" text="Buy Now£150" >}}
+- [6 x 1-to-1 coaching sessions](https://gusreid.ck.page/products/6-x-coaching-sessions) -  {{< button link="https://gusreid.ck.page/products/6-x-coaching-sessions" text="Buy Now £250" >}}
 
 Whatever you choose to do - work with me, work with another coach, or figure things out on your own - I wish you an expansive and dynamic *body*, *mind* and *life*. 
 
