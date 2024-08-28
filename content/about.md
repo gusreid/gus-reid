@@ -40,59 +40,11 @@ I'm passionate about movement; not only as a therapeutic tool, but as vehicle fo
 
 <!--Slider-->
 
-<h2>Testimonials</h2>
-<div class="swiper">
-  <div class="swiper-wrapper">
-    <!-- copy it -->
-    <div class="swiper-slide">
-      <div class="testimonial">
-        <img src="/images/Josh Mug Shot.jpg" alt="Avatar">
-        <p>Just wanted to say thanks again for the session on Saturday, great way to start the weekend and genuinely felt all kinds of good feelings in my body as I lay down to sleep that evening. Something had been freed or stirred up, in a good way 🙏🏻.</p>
-        <span>- Josh Arrowsmith</span>
-      </div>
-    </div>
-    <!-- copy it -->
-  </div>
+## Testimonials
+{{< slider >}}
+  {{< slide name="name" quote="qutoe" image="path/to/image.jpg" >}}
+{{< /slider >}}
 
-  <!-- If we need navigation buttons -->
-  <div class="swiper-button-prev"></div>
-  <div class="swiper-button-next"></div>
-
-  <!-- If we need scrollbar -->
-  <div class="swiper-scrollbar"></div>
-</div>
-    
-  <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
-/>
-
-<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
-
-<script>
-  const swiper = new Swiper('.swiper', {
-  // Optional parameters
-  direction: 'vertical',
-  loop: true,
-
-  // If we need pagination
-  pagination: {
-    el: '.swiper-pagination',
-  },
-
-  // Navigation arrows
-  navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
-  },
-
-  // And if we need scrollbar
-  scrollbar: {
-    el: '.swiper-scrollbar',
-  },
-});
-
-  </script>
 
 <!--Instagram Feed-->
 <p>

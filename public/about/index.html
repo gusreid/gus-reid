@@ -58,11 +58,13 @@ I was born with a musculoskeletal condition called pectus excavatum; a whole-bod
 <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
 
   <style>
+  
   .swiper {
-  width: 900px;
-  height: 500px;
+    width: 100%;
+    height: 500px;
   }
-    * {
+
+  * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -94,9 +96,7 @@ I was born with a musculoskeletal condition called pectus excavatum; a whole-bod
     text-align: center;
     height: 500px;
     display: flex;
-    padding: 10px 0;
     justify-content: center;
-    margin: 0 10px;
     flex-direction: column;
     gap: 15px;
     background-color: #FD7B33;
@@ -217,10 +217,6 @@ I was born with a musculoskeletal condition called pectus excavatum; a whole-bod
         width: 800px;
       }
 
-    .swiper {
-        width: 800px;
-      }
-
       .testimonial p {
         padding: 10px 70px;
         line-height: 1.5rem;
@@ -236,10 +232,6 @@ I was born with a musculoskeletal condition called pectus excavatum; a whole-bod
         width: 300px;
       }
 
-      .swiper {
-        width: 500px;
-      }
-
       .testimonial p {
         padding: 10px 50px;
         line-height: 1.3rem;
@@ -253,10 +245,6 @@ I was born with a musculoskeletal condition called pectus excavatum; a whole-bod
   @media (max-width: 580px) {
       .testimonials-slider {
         width: 250px;
-      }
-
-      .swiper {
-        width: 300px;
       }
 
       .testimonial p {
@@ -843,60 +831,65 @@ I&rsquo;m Gus; mover, hermit, traveller.</p>
 <p>I&rsquo;m passionate about movement; not only as a therapeutic tool, but as vehicle for inner transformation. And I&rsquo;m on a mission to share the revelatory potential of movement to awaken the wisdom of the body.</p>
 <!-- ![alt text](/images/58.png) -->
 <!--Slider-->
-<h2>Testimonials</h2>
+<h2 id="testimonials">Testimonials</h2>
 <div class="swiper">
   <div class="swiper-wrapper">
-    <!-- copy it -->
-    <div class="swiper-slide">
+    
+  <div class="swiper-slide">
       <div class="testimonial">
-        <img src="/images/Josh Mug Shot.jpg" alt="Avatar">
-        <p>Just wanted to say thanks again for the session on Saturday, great way to start the weekend and genuinely felt all kinds of good feelings in my body as I lay down to sleep that evening. Something had been freed or stirred up, in a good way 🙏🏻.</p>
-        <span>- Josh Arrowsmith</span>
+          <img src='path/to/image.jpg' alt="Avatar">
+          <p>qutoe</p>
+          <span>- name</span>
       </div>
-    </div>
-    <!-- copy it -->
   </div>
-  <!-- If we need navigation buttons -->
+
+  </div>
+
+  
   <div class="swiper-button-prev"></div>
   <div class="swiper-button-next"></div>
-  <!-- If we need scrollbar -->
+
+  
   <div class="swiper-scrollbar"></div>
 </div>
-  <link
+
+<link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
 />
+
 <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
 <script>
   const swiper = new Swiper('.swiper', {
-  // Optional parameters
-  direction: 'vertical',
-  loop: true,
+    
+    direction: 'vertical',
+    loop: true,
 
-  // If we need pagination
-  pagination: {
-    el: '.swiper-pagination',
-  },
+    
+    pagination: {
+      el: '.swiper-pagination',
+    },
 
-  // Navigation arrows
-  navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
-  },
+    
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
 
-  // And if we need scrollbar
-  scrollbar: {
-    el: '.swiper-scrollbar',
-  },
-});
+    
+    scrollbar: {
+      el: '.swiper-scrollbar',
+    },
+  });
+</script>
 
-  </script>
 <!--Instagram Feed-->
 <p>
 <blockquote class="instagram-media" data-instgrm-captioned
     data-instgrm-permalink='https://www.instagram.com/reel/C8mt8yUs-FT/'
     data-instgrm-version="14"
-    style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+    style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); min-width:326px; width: 100%;">
     <div style="padding:16px;"> <a
             href='https://www.instagram.com/reel/C8mt8yUs-FT/'
             style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;"
