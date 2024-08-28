@@ -53,7 +53,6 @@ I'm passionate about movement; not only as a therapeutic tool, but as vehicle fo
     </div>
     <!-- copy it -->
   </div>
-  <!-- If we need pagination -->
 
   <!-- If we need navigation buttons -->
   <div class="swiper-button-prev"></div>
