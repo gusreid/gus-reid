@@ -95,5 +95,6 @@ I'm passionate about movement; not only as a therapeutic tool, but as vehicle fo
   </script>
 
 <!--Instagram Feed-->
-
+<p>
 {{< ifeed link="https://www.instagram.com/reel/C8mt8yUs-FT/" >}}
+</p>
