@@ -209,10 +209,9 @@
       text-decoration-color: transparent;
       text-decoration-thickness: 1px;
       text-underline-offset: 2px;
-      color: var(--text-alt-color);
 
       &:hover {
-        text-decoration-color: var(--text-alt-color);
+        text-decoration-color: inherit;
       }
     }
   }

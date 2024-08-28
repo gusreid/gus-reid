@@ -122,7 +122,6 @@
     font-weight: 500;
     text-transform: capitalize;
     border-radius: 60px;
-    color: var(--heading-font-color);
     transition: $global-transition;
     background-color: var(--background-alt-color);
 
@@ -147,7 +146,6 @@
     line-height: 1;
     font-weight: 500;
     text-transform: uppercase;
-    color: var(--text-alt-color);
   }
 }
 
@@ -162,10 +160,9 @@
     text-decoration-color: transparent;
     text-decoration-thickness: 1.5px;
     text-underline-offset: 3px;
-    color: var(--heading-font-color);
 
     &:hover {
-      text-decoration-color: var(--heading-font-color);
+      text-decoration-color: inherit;
     }
   }
 }
@@ -174,7 +171,6 @@
   display: -webkit-box;
   margin-bottom: 8px;
   font-size: 18px;
-  color: var(--text-alt-color);
   overflow-y: hidden;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
@@ -184,7 +180,6 @@
   font-size: 12px;
   line-height: 1.6;
   font-weight: 500;
-  color: var(--text-alt-color);
 }
 
 .article__author__name {
@@ -193,7 +188,6 @@
   text-decoration-color: transparent;
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
-  color: var(--heading-font-color);
 
   &:hover {
     text-decoration-color: var(--heading-font-color);

@@ -2,7 +2,7 @@
 # General Site Settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Gus Reid | Move True"
+title = "Movement: Unleashed"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 12
 
@@ -37,7 +37,7 @@ paginate = 12
 
   # Call to action button
   [params.cta_button]
-    enable = true
+    enable = false
     cta_button_link = "https://www.paypal.com/donate/?hosted_button_id=NS545HRZ5LQYA"
     cta_button_text = "Donate Now"
 
