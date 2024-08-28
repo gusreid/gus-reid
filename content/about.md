@@ -52,7 +52,7 @@ I'm passionate about movement; not only as a therapeutic tool, but as vehicle fo
       <div class="testimonial">
           <img src="/images/Josh Mug Shot.jpg" alt="Avatar">
           <p>Just wanted to say thanks again for the session on Saturday, great way to start the weekend and genuinely felt all kinds of good feelings in my body as I lay down to sleep that evening. Something had been freed or stirred up, in a good way 🙏🏻.</p>
-          <span>- Josh Arrowsmith</span>
+          <span>- Joshua Arrowsmith</span>
         </div>
       </div>
     <div class="swiper-slide">
