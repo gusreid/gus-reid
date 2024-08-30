@@ -7,8 +7,8 @@ title = "Classes"
 What's possible when we live our lives from a state of **relaxed**, **open**, **grounded** awareness; meeting life **centred** in our being, **whole and complete**? 
 
 Discover and embody the principles *behind* the movement arts. 
-- 1 class - **£10** [Book Now](https://gusreid.ck.page/products/1-x-unleashed-movement-class)
-- 4 classes - **£35** [Book Now](https://gusreid.ck.page/products/3-x-unleashed-movement-classes)
+- 1 class - "{{< button link="https://gusreid.ck.page/products/1-x-unleashed-movement-class" text="Book Now £10" >}}"
+- 4 classes - "{{< button link="https://gusreid.ck.page/products/3-x-unleashed-movement-classes" text="Book Now £35" >}}"
 
 ### Class timetable:
 <div class="post-video">
