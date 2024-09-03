@@ -10,7 +10,6 @@ layout = "classes"
 Hi, 
 I'm Gus; questioner, learner, mover. 
 
-
 *Life is movement.* Movement is how we know life is happening! Without movement, would we even be aware of nature? So what better way to tap into your essential nature than through movement?
 
 Movement is so important to me because of the profound impact that consciously moving my body has had on my health, mind and growth. 
@@ -33,6 +32,7 @@ My journey with pain and misalignment - and the gradual improvement I've seen ov
 
 ![alt text](/images/gusbridge.jpg)
 
+#### Specialised-generalist
 Although I've studied, practiced and contemplated many disciplines and healing arts - from yoga, taiji, chi gong, calisthenics, mobility, strength training, movement culture and dance, to holistic health, herbal medicine, Ayurveda, various cosmologies and shamanic practices, alongside breathing techniques, meditation and contemplation - I never felt drawn to bed down and establish myself in any of the cultures that surround them. Choosing instead to take what works, master the principles, and disregard the rest. Then moving on to answer the next burning question. Every modality has its value and purpose, but none are whole and complete or work for everyone all the time. This approach has equipped me with a broad, non-dogmatic, multi-disciplined, practical worldview. I encourage the same approach with my students. 
 #### Reframing practice
 Movement is about more than just getting fit, longevity or preventing illness. It has the potential to be the vehicle through which we awaken the uncognised aspects of our mind; revealing and reversing repressed emotions and dispositions towards self, life and others - landing us square in the centre of *being*. 
