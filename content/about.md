@@ -39,7 +39,7 @@ Movement is about more than just getting fit, longevity or preventing illness. I
 
 As we become more aligned with - *and centred in* - our being and essential nature we become more confident, competent and graceful - the world begins to open up for us and shit just works right! 
 
-I'm passionate about movement; not only as a therapeutic tool, but as vehicle for inner transformation. And I'm on a mission to share the revelatory potential of movement to awaken the wisdom of the body. 
+I'm passionate about movement; not only as a therapeutic tool, but as vehicle for inner transformation. And it's my joy to share the revelatory potential of movement to awaken the wisdom of the body. 
 
 <!-- ![alt text](/images/58.png) -->
 
