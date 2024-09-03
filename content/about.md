@@ -46,9 +46,7 @@ I'm passionate about movement; not only as a therapeutic tool, but as vehicle fo
 
 ## Testimonials
 [{{< slider >}}
-  {{< slide name="name" quote="quote" image="path/to/image.jpg" >}}
-{{< /slider >}}](<{{%3C slider %3E}}
-  {{< slide name="Joshua Arrowsmith" quote="Just wanted to say thanks again for the session on Saturday, great way to start the weekend and genuinely felt all kinds of good feelings in my body as I lay down to sleep that evening. Something had been freed or stirred up, in a good way 🙏🏼" image="/images/Josh Mug Shot.jpg" >}}
+name="Joshua Arrowsmith" quote="Just wanted to say thanks again for the session on Saturday, great way to start the weekend and genuinely felt all kinds of good feelings in my body as I lay down to sleep that evening. Something had been freed or stirred up, in a good way 🙏🏼" image="/images/Josh Mug Shot.jpg" >}}
 {{< /slider >}}>)
 
 
