@@ -10,6 +10,7 @@ layout = "classes"
 Hi, 
 I'm Gus; questioner, learner, mover. 
 
+
 *Life is movement.* Movement is how we know life is happening! Without movement, would we even be aware of nature? So what better way to tap into your essential nature than through movement?
 
 Movement is so important to me because of the profound impact that consciously moving my body has had on my health, mind and growth. 
