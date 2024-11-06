@@ -1,7 +1,7 @@
 ---
 title: "The Principle of Self-Acceptance"
 date: 2024-11-05
-image: "/images/cat self-acceptance.jpg"
+image: "/images/self-acceptance.jpg"
 tags: [principles, movement, being, body-mind, empowerment]
 type: posts
 ---
