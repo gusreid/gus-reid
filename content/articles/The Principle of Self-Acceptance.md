@@ -4,6 +4,7 @@ date: 2024-11-05
 image: "/images/cat self-acceptance.jpg"
 tags: [principles, movement, being, body-mind, empowerment]
 type: posts
+draft: true
 ---
 
 # The Principle of Self-acceptance
