@@ -4,7 +4,6 @@ date: 2024-07-19
 image: "/images/cat pandiculating.jpg"
 tags: [principles, movement, internal arts, being, body-mind]
 type: posts
-draft: true
 ---
 
 
