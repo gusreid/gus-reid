@@ -6,7 +6,7 @@ tags: [principles, movement, being, body-mind, empowerment]
 type: posts
 ---
 
-# The Principle of Self-acceptance
+# The Principle of Self-Acceptance
 ## Ideals hurt
 We often live our lives in resistance to what is. Always trying to change something to become something other than we are. If we look deeply into this activity of changing what we are, we will find, in the vast majority of cases, that at the heart of this activity is an **ideal**. And at the heart of that ideal is a **judgment** that something isn't right, something isn't okay, something is wrong with us; our minds, our bodies or life in general. 
 
@@ -24,20 +24,17 @@ By putting our attention on the pain without resistance, and being open to somet
 What we come to recognise is that we are not victims of our pain, but our pain and suffering is something we are *doing*, albeit unconsciously. Much of what ails us is resolved through seeing what we are up to and ceasing to engage in such activities. We may find that there's nothing to resolve, or we may find that resolution happens through the process of exploration, acceptance and letting go.
 
 Acceptance, honesty, openness and commitment are the keys to transformation. You are a powerful being who is capable of much more than you realise. Trying to be something you are not whilst denying what you are is a key for a fractured consciousness and a life of pain and struggle. Setting goals from a place of complete self-acceptance and aligning to those goas as if they are already true is the key to an empowered life. 
-## Self-Acceptance in Practice
-### Thoughts
-Adopting the principle of self-acceptance offers the possibility of training a new way of being. We can take on a commitment of **intending** to accept ourselves for 15 (or 5) minutes a day. Everything we do for those 15 minutes will be aligned to this principle. How we move, how we breathe, how we think, how we feel. We can become conscious about everything we're thinking, doing and feeling that is *counter* to this principle and start to inquire into the nature of these activities. If, for example I notice that the contents of my internal dialogue is of me having a conversation with another in the future, I can ask what's true about this conversation. I may discover that I'm coming from a superior place (or defensive, or whatever). I can ask, what's the nature of *me being superior to others in the future*? Using **existential thinking** (looking into the nature of how something comes exist) I realise that I must hold it that I am in some way inferior *now*. Otherwise why do I need a future in which to be superior? Lets take a look another level down: What must be true for me to be inferior (and also for there to be such a thing as superior)? Well there must be an assumption of a value system, intrinsic to life. It doesn't take a tremendous amount of life-experience to realise that values are entirely made up and vary to a greater or lesser degree depending on context and culture. 
+## Self-Acceptance in Physical Practice
+Adopting the principle of self-acceptance in our lives offers the possibility of training a new way of being and relating to our self, body, mind and life. We can take on a commitment of **intending** to accept ourselves for 15 (or 5) minutes a day. In the context of the body we may move our body, gently and intuitively, for our dedicated time period. Letting go of any formal way of doing things - techniques, methods, frameworks, models - and just being with what is; seeking only an authentic experience of this moment *as* it is. Exploring how the body works, how each body part relates to other body parts, and to the whole; letting gravity be your medicine. 
 
-Letting go of these cultural assumptions is not easy. When using existential thinking it is a trap to settle for a conclusion. Seek instead an authentic experience of how the thought, assumption, belief, disposition lives in you. But even that isn't enough, we must also unstick the glue that binds the thought to us. 
-### Emotions
-There is always an emotional component attached to these perception-limiting thoughts that facilitates a *need* to think them; to view life through their lens. So in our practice of aligning to the **self-acceptance principle** we must also identify the emotional need to hold onto and live through these thoughts. 10,000 repetitions of us seeing how we're doing our own pain empowers us to (eventually) let them go. You can drop these painful dispositions quickly, once seen, but chances are it will take a lot of practice. Don't be discouraged though; as you learn how painful they are to live through, and as you become increasingly conscious of how and why you're participating in such activities, dropping them becomes a no-brainer. Again, it's just a matter of reality catching up to the truth. And once you've dropped one you open up more possibility for yourself to drop more. With each "dropping" you become more skilful at noticing how they live in you and confident that you can take on greater challenges. 
-### Truth
-As we become more skilful at dropping such thoughts, and feeling their accompanying emotions, it's as if the principle of self-acceptance floods in to take the place of those previously limiting identities. So don't forget to keep one eye on self-acceptance throughout this endeavour. It is possible to become conscious that your true nature exists "prior" to any cultural ideals.
+We may learn about parts of the body that we hold as being "bad", "wrong" or undesirable. We can explore these areas with a disposition of self-acceptance - accepting where we are with an open curiosity. Instead of trying to change our body we seek to discover what's true about it. If we feel pain we seek to understand the pain experientially. Perhaps mapping out its boundaries and what other body parts might be involved in our condition. 
+
+Everything we do for those 15 minutes will be aligned to this principle. How we move, how we breathe, how we think, how we feel. We can become conscious about everything we're thinking, doing and feeling that is running *counter* to this principle and start to inquire into the nature of these activities; letting each one go as we get clearer on how they live in us. For more on this check out my article [[Assumptions that Shape Your Reality]].
+
+It is possible to become conscious that your true nature exists "prior" to any cultural ideals.
 
 ***You are**. Ideals aren't!*
 
 This is true freedom and it all starts with ***self-acceptance***. 
 
 I wish you the fullness of an empowered life. May these words serve to guide **you** back to **you**. 
-
-Gus
