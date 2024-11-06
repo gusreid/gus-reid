@@ -29,7 +29,7 @@ Adopting the principle of self-acceptance in our lives offers the possibility of
 
 We may learn about parts of the body that we hold as being "bad", "wrong" or undesirable. We can explore these areas with a disposition of self-acceptance - accepting where we are with an open curiosity. Instead of trying to change our body we seek to discover what's true about it. If we feel pain we seek to understand the pain experientially. Perhaps mapping out its boundaries and what other body parts might be involved in our condition. 
 
-Everything we do for those 15 minutes will be aligned to this principle. How we move, how we breathe, how we think, how we feel. We can become conscious about everything we're thinking, doing and feeling that is running *counter* to this principle and start to inquire into the nature of these activities; letting each one go as we get clearer on how they live in us. For more on this check out my article [[Assumptions that Shape Your Reality]].
+Everything we do for those 15 minutes will be aligned to this principle. How we move, how we breathe, how we think, how we feel. We can become conscious about everything we're thinking, doing and feeling that is running *counter* to this principle and start to inquire into the nature of these activities; letting each one go as we get clearer on how they live in us. For more on this check out my article [[Assumptions that Shape Your Reality]] (coming soon).
 
 It is possible to become conscious that your true nature exists "prior" to any cultural ideals.
 
