@@ -15,6 +15,7 @@ I'm Gus; questioner, learner, mover.
 Movement is so important to me because of the profound impact that consciously moving my body has had on my health, mind and growth. 
 
 But it's not always been that way. When I was young I was far from athletic. 
+<iframe id="chartWidget" src="https://neutrinoplatform.com/widget/chart/new?apiKey=04fb50d2d2a43b82cb8b849527a09c52a7fba5fe" style="width: 100%; height: 450px;" frameborder="0" onload="(function(){var iframe=document.getElementById('chartWidget');var originalHeight=iframe.offsetHeight;window.addEventListener('message',function(event){if(iframe&&event.data){var newHeight=originalHeight+parseInt(event.data,10);iframe.style.height=newHeight+'px';}},false);})();"></iframe>
 #### A bit of backstory
 I was born with a musculoskeletal condition called *pectus excavatum*; a whole-body condition that manifests most obviously as a concaved chest. Not only did this cause me a lot of social anxiety as a young lad, but it made breathing difficult and movement painful. I was racked with injuries as a child, and shied away from sports and physical activity. 
 
