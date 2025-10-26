@@ -3,20 +3,14 @@ title = "Classes"
 +++
 
 
-## In-Person Classes: 
-What's possible when we live our lives from a state of **relaxed**, **open**, **grounded** awareness; meeting life **centred** in our being, **whole and complete**? 
-
-**Using [Cheng Hsin](https://chenghsin.com/) taiji principles and a playful, non-linear approach, I help spark open investigation, cultivate connection, foster the release of tension and promote structural alignment.**
-- Drop-in £9 (cash)
-#### Monthly Subscriptions = significant discounts
-- 1 class per week {{< button link="https://gusreid.kit.com/products/1-movement-class-per-week-24" text="Book Now £24" >}} ~ £6 per class.
-- 2 classes per week {{< button link="https://gusreid.kit.com/products/2-movement-classes-per-week-20-discount" text="Book Now £36" >}} 20% discount ~ £4 per class.
-- Couples classes (1 each per week)  {{< button link="https://gusreid.kit.com/products/movement-classes-for-couples-25-off" text="Book Now £36" >}} 25% discount ~ £3.60 per class
+< button link="https://gusreid.kit.com/products/2-movement-classes-per-week-20-discount" text="Book Now £36" >}} 20% discount ~ £4 per class.
+- Couples classes  {{< button link="https://gusreid.kit.com/products/movement-classes-for-couples-25-off" text="Book Now £36" >}} 25% discount ~ £3.60 per class
  
 <div class="article__head" style="">
     <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
 **We use a unique blend of...**
+
 - Visualisation and feeling-states
 - Task-oriented games
 - Mobility, balance, rhythm and coordination drills
@@ -45,6 +39,7 @@ Note: At the Treflach Farm venue there are limited yoga mats, so it might be an 
 - [Fighting Monkey](https://fightingmonkey.net/)
 - [Jon Yuen](https://www.yuenjon.com/)
 - [Samantha Emanuel](https://samanthaemanuel.com/)
+
 
 
 
