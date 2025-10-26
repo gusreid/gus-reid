@@ -6,7 +6,7 @@ title = "Classes"
 ## In-Person Classes: 
 What's possible when we live our lives from a state of **relaxed**, **open**, **grounded** awareness; meeting life **centred** in our being, **whole and complete**? 
 
-**Using a playful, non-linear approach, I help spark open investigation, cultivate connection, foster the release of tension and promote structural alignment.**
+**Using a playful, non-linear approach, I help spark open investigation, cultivate connection, release tension and promote structural alignment.**
 <div class="article__head" style="">
     <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
