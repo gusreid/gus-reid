@@ -17,7 +17,7 @@ What's possible when we live our lives from a state of **relaxed**, **open**, **
 <div class="article__head" style="">
     <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
-**We use a unique blend of...**
+**We use a unique blend of**
 
 - Visualisation and feeling-states
 - Task-oriented games
