@@ -6,20 +6,20 @@ title = "Classes"
 ## In-Person Classes: 
 What's possible when we live our lives from a state of **relaxed**, **open**, **grounded** awareness; meeting life **centred** in our being, **whole and complete**? 
 
-**Using [Cheng Hsin](https://chenghsin.com/) taiji principles and a playful, non-linear approach, I help spark open investigation, cultivate connection, foster the release of tension and promote structural alignment.**
+**Using a playful, non-linear approach, I help spark open investigation, cultivate connection, foster the release of tension and promote structural alignment.**
 #### Pricing
+- First class *free*!
 - Drop-in £10 (cash)
 ##### Monthly Subscriptions = significant discounts
 - 1 class per week {{< button link="https://pay.gocardless.com/BRT00044ZEZT3SA" text="Book Now £28" >}} less than £7 per class.
 - 2 classes per week {{< button link="https://pay.gocardless.com/BRT00044ZFN8TXC" text="Book Now £40" >}} less than £5 per class.
 - Couples classes  {{< button link="https://pay.gocardless.com/BRT00044ZG0MB9R" text="Book Now £40" >}} less than £5 per class.
 
-**Come have a taster class for *free*!**
 <div class="article__head" style="">
     <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
 
-**We use a unique blend of...**
+**I use a unique blend of...**
 
 - Visualisation and feeling-states
 - Task-oriented games
