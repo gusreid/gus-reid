@@ -8,11 +8,12 @@ What's possible when we live our lives from a state of **relaxed**, **open**, **
 
 **Using [Cheng Hsin](https://chenghsin.com/) taiji principles and a playful, non-linear approach, I help spark open investigation, cultivate connection, foster the release of tension and promote structural alignment.**
 #### Pricing
-- Drop-in £9 (cash)
+- Drop-in £10 (cash)
 ##### Monthly Subscriptions = significant discounts
-- 1 class per week {{< button link="https://gusreid.kit.com/products/1-movement-class-per-week-24" text="Book Now £24" >}} ~ £6 per class.
-- 2 classes per week {{< button link="https://gusreid.kit.com/products/2-movement-classes-per-week-20-discount" text="Book Now £36" >}} ~ £4 per class - 20% discount
-- Couples classes  {{< button link="https://gusreid.kit.com/products/movement-classes-for-couples-25-off" text="Book Now £36" >}} < £4 per class - 25% discount
+- 1 class per week {{< button link="https://gusreid.kit.com/products/1-movement-class-per-week-24" text="Book Now £28" >}} less than £7 per class.
+- 2 classes per week {{< button link="https://gusreid.kit.com/products/2-movement-classes-per-week-20-discount" text="Book Now £40" >}} less than £5 per class - 20% discount
+- Couples classes  {{< button link="https://gusreid.kit.com/products/movement-classes-for-couples-25-off" text="Book Now £40" >}} less than £5 per class - 25% discount
+
 **Come have a taster class for *free*!**
   
 <div class="article__head" style="">
