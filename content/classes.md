@@ -5,11 +5,11 @@ title = "Classes"
 
 ## In-Person Classes: 
 Discover and embody the principles *behind* the movement arts. 
-- 1 class - {{< button link="https://gusreid.ck.page/products/1-x-unleashed-movement-class" text="Book Now £9" >}}
-- 4 classes - {{< button link="https://gusreid.ck.page/products/3-x-unleashed-movement-classes" text="Book Now £30" >}}
-What's possible when we live our lives from a state of **relaxed**, **open**, **grounded** awareness; meeting life **centred** in our being, **whole and complete**?
-- - Couples classes (1 each per month) - {{< button link="https://gusreid.kit.com/products/movement-classes-for-couples-25-off" text="Book Now £36" >}}
-
+- Drop-in - £9 cash
+- 1 class per week {{< button link="https://gusreid.kit.com/products/1-movement-class-per-week-24" text="Book Now £24" >}} ~ £6 per class.
+- 2 classes per week {{< button link="https://gusreid.kit.com/products/2-movement-classes-per-week-20-discount" text="Book Now £36" >}} 20% discount ~ £4 per class.
+- Couples classes (1 each per week)  {{< button link="https://gusreid.kit.com/products/movement-classes-for-couples-25-off" text="Book Now £36" >}} 25% discount ~ £3.60 per class
+  
 **My classes are centred around the [Cheng Hsin](https://chenghsin.com/) principles of an effortlessly-effective body:**
 <div class="article__head" style="">
     <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
