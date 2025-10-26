@@ -4,12 +4,32 @@ title = "Classes"
 
 
 ## In-Person Classes: 
+Discover and embody the principles *behind* the movement arts. 
+- 1 class - {{< button link="https://gusreid.ck.page/products/1-x-unleashed-movement-class" text="Book Now £9" >}}
+- 4 classes - {{< button link="https://gusreid.ck.page/products/3-x-unleashed-movement-classes" text="Book Now £30" >}}
 What's possible when we live our lives from a state of **relaxed**, **open**, **grounded** awareness; meeting life **centred** in our being, **whole and complete**? 
 
-Discover and embody the principles *behind* the movement arts. 
-- 1 class - {{< button link="https://gusreid.ck.page/products/1-x-unleashed-movement-class" text="Book Now £10" >}}
-- 4 classes - {{< button link="https://gusreid.ck.page/products/3-x-unleashed-movement-classes" text="Book Now £35" >}}
+**My classes are centred around the [Cheng Hsin](https://chenghsin.com/) principles of an effortlessly-effective body:**
+<div class="article__head" style="">
+    <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
+</div>
+- Being calm
+- Relaxing
+- Moving from the centre
+- Being grounded
+- Feeling the whole body and the space around the body
 
+**In order to discover and embody these principles we explore...**
+- Visualisation and feeling-states
+- Task-oriented games
+- Mobility, balance, rhythm and coordination drills
+- Structure and alignment
+
+If you've ever been to a **tai chi**, **chi gong** or **yoga** class you'll find much of what I teach and facilitate familiar. The difference here is I will be facilitating you to have a direct experience of the underlying principles that those arts arose from - the essence of the arts, if you will. Not only will you learn what to do, but also *how to be*. My goal is to break free from dogma and ritual and to help you move in the direction of embodied **power**, **grace** and **resilience**. 
+
+Classes are between 1 to 1.5 hours.
+There are limited yoga mats, so it might be an idea to bring your own, if you have one. 
+**Bring a curious and playful attitude!**
 ### Class timetable:
 <div class="post-video">
   <div class="post-video__wrap">
@@ -17,31 +37,11 @@ Discover and embody the principles *behind* the movement arts.
   </div>
 </div>
 
-Classes are between 1 to 1.5 hours.
-There are limited yoga mats, so it might be an idea to bring your own, if you have one. 
 
 **Learn to be more alive, present, embodied, balanced and whole, by...**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bZr7jFNkBz0?si=Uxc1CQXQgf_n-NrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Exploring the five principles of an effortlessly effective body-being.**
-<div class="article__head" style="">
-    <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
-</div>
-
-- Being calm
-- Relaxing
-- Moving from the centre
-- Being grounded
-- Feeling the whole body and the space around the body
-
-**Through...**
-- Visualisation and feeling-states
-- Task-oriented training
-- Pandiculation and intrinsic pleasure
-- Resurfacing and rewiring subconscious patterns
-
-**Bring a curious and playful attitude!**
 
 
 
