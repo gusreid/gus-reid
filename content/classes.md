@@ -7,14 +7,6 @@ title = "Classes"
 What's possible when we live our lives from a state of **relaxed**, **open**, **grounded** awareness; meeting life **centred** in our being, **whole and complete**? 
 
 **Using a playful, non-linear approach, I help spark open investigation, cultivate connection, foster the release of tension and promote structural alignment.**
-#### Pricing
-- First class *free*!
-- Drop-in £10 (cash)
-##### Monthly Subscriptions = significant discounts
-- 1 class per week {{< button link="https://pay.gocardless.com/BRT00044ZEZT3SA" text="Book Now £28" >}} less than £7 per class.
-- 2 classes per week {{< button link="https://pay.gocardless.com/BRT00044ZFN8TXC" text="Book Now £40" >}} less than £5 per class.
-- Couples classes  {{< button link="https://pay.gocardless.com/BRT00044ZG0MB9R" text="Book Now £40" >}} less than £5 per class.
-
 <div class="article__head" style="">
     <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
@@ -33,6 +25,13 @@ Classes are open to all ages and abilities. All tasks, games and coordinations c
 So pop on some comfy clothes and come be surprised at what you can do!
 
 **Classes are between 1 to 1.5 hours.**
+#### Pricing
+- First class *free*!
+- Drop-in £10 (cash)
+##### Monthly Subscriptions = significant discounts
+- 1 class per week {{< button link="https://pay.gocardless.com/BRT00044ZEZT3SA" text="Book Now £28" >}} less than £7 per class.
+- 2 classes per week {{< button link="https://pay.gocardless.com/BRT00044ZFN8TXC" text="Book Now £40" >}} less than £5 per class.
+- Couples classes  {{< button link="https://pay.gocardless.com/BRT00044ZG0MB9R" text="Book Now £40" >}} less than £5 per class.
 
 Note: At the Treflach Farm venue there are limited yoga mats, so it might be an idea to bring your own, if you have one. We don't always use them, but they can be handy.
 
