@@ -11,8 +11,8 @@ What's possible when we live our lives from a state of **relaxed**, **open**, **
 - Drop-in £9 (cash)
 ##### Monthly Subscriptions = significant discounts
 - 1 class per week {{< button link="https://gusreid.kit.com/products/1-movement-class-per-week-24" text="Book Now £24" >}} ~ £6 per class.
-- 2 classes per week {{< button link="https://gusreid.kit.com/products/2-movement-classes-per-week-20-discount" text="Book Now £36" >}} 20% discount ~ £4 per class.
-- Couples classes  {{< button link="https://gusreid.kit.com/products/movement-classes-for-couples-25-off" text="Book Now £36" >}} 25% discount ~ £3.60 per class
+- 2 classes per week {{< button link="https://gusreid.kit.com/products/2-movement-classes-per-week-20-discount" text="Book Now £36" >}} ~ £4 per class - 20% discount
+- Couples classes  {{< button link="https://gusreid.kit.com/products/movement-classes-for-couples-25-off" text="Book Now £36" >}} < £4 per class - 25% discount
  
 <div class="article__head" style="">
     <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
