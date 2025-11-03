@@ -28,7 +28,7 @@ Classes are between 1 to 1.5 hours.
 #### Pricing
 - First class *free*!
 - Drop-in £10 (cash)
-- Block of 4 £35 (cash)
+- Block of 4 {{< button link="https://pay.gocardless.com/BRT00045K6V9WZR" text="Book Now £35" >}}
 ##### Monthly Subscriptions = significant discounts
 - 1 class per week {{< button link="https://pay.gocardless.com/BRT00044ZEZT3SA" text="Book Now £28" >}} less than £7 per class.
 - 2 classes per week {{< button link="https://pay.gocardless.com/BRT00044ZFN8TXC" text="Book Now £40" >}} less than £5 per class.
