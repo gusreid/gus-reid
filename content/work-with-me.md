@@ -7,15 +7,16 @@ title: Work with Me
 ## Individualised Movement Coaching: One-to-One
 
 Unlock your body and become the one you were meant to be: Personalized movement coaching for an empowered life.
+
+- <div class="article__head" style="">
+    <img src="/images/Gus task.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
+</div>
+
 ### Session Structure:
 **Customised Coaching Sessions (60 minutes each)**
 - Tailored movement tasks based on individual needs
 - Individualised guidance and feedback
 - Progressive adjustments as you improve
-
-- <div class="article__head" style="">
-    <img src="/images/Gus task.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
-</div>
 
 ### Key Benefits:
 - Personalised attention and tailored movement strategies
