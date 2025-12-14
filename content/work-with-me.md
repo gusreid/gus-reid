@@ -8,6 +8,11 @@ title: Work with Me
 I know from experience that making lasting changes in the body can be a confusing and overwhelming challenge. Having someone to help you create a strategy and to show you the pitfalls can be very helpful in your process. 
 
 When working with clients I've learned that it is far more effective and empowering to work towards a skill or goal, rather than trying to fix something. Of course, many people come to me with some kind of challenge, pain or problem. And that's fine; that's what got your attention. But as quickly as possible we want to identify a skill that you can work towards which is going to make ***you*** bigger than your problems. It gives us **context** and a **positive orientation** towards practice. *Then*, all the drills and strategies serve that greater purpose. 
+
+<div class="article__head" style="">
+    <img src="/images/Gus task.jpg" alt="image" height="250px" width="250px" style="float: right; margin-left: 15px;">
+</div>
+
 #### Education
 My goal in our work together is to empower you with the skills, knowledge and experience that will take you towards your movement goals. For this you will need some basic education. 
 
