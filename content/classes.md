@@ -20,6 +20,10 @@ What's possible when we live our lives from a state of **relaxed**, **open**, **
 
 If you've ever been to a **tai chi**, **chi gong** or **yoga** class you'll find much of what I teach familiar. The difference here is we explore non-linear approaches to movement, preparing your body for the unpredictable nature of life. My goal is to help you free yourself from generic, linear, ritualised practice and to help you live from a spontaneously responsive and resilient body. 
 
+<div class="article__head" style="">
+    <img src="/images/Class 3.jpg" alt="image" height="250px" width="250px" style="float: right; margin-left: 15px;">
+</div>
+
 *Classes are open to all ages and abilities. All tasks, games and coordinations can be scaled to your individual ability. So don't feel like anything will be too much for you (or too little). If you're getting older and starting to lose your mobility, I think you will enjoy these classes as a fun way to maintain and increase your physical ability. And if you have an existing practice or sport you will find the principles and structural points I teach very supportive of any endeavour you pursue with a body.* 
 
 So pop on some comfy clothes and come be surprised at what you can do!
