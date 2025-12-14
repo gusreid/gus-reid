@@ -4,13 +4,13 @@ title: Work with Me
 ---
 
 # Become Your Own Physiotherapist
-## Individualised Movement Coaching: One-to-One
-
-Unlock your body and become the one you were meant to be: Personalized movement coaching for an empowered life.
-
 - <div class="article__head" style="">
     <img src="/images/Gus task.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
+
+## Individualised Movement Coaching: One-to-One
+
+Unlock your body and become the one you were meant to be: Personalized movement coaching for an empowered life.
 
 ### Session Structure:
 **Customised Coaching Sessions (60 minutes each)**
