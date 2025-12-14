@@ -29,6 +29,10 @@ At the same time we are free to destroy distinctions that limit us or create suf
 
 In the Cheng Hsin Arts, developed by [Peter Ralston](https://chenghsin.com/who-is-peter-ralston/), we use several principles to move the body and mind towards a true and authentic experience. 
 
+<div class="article__head" style="">
+    <img src="/images/Gus crouch.jpg" alt="image" height="250px" width="450px" style="float: right; margin-left: 15px;">
+</div>
+
 In the Body-Being work we work to investigate, discover and embody the *Five Principles of an Effortlessly-Effective Body*. 
 - Being Calm
 - Relaxing
