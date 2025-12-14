@@ -4,7 +4,7 @@ title: Work with Me
 ---
 
 # Become Your Own Physiotherapist
-- <div class="article__head" style="">
+<div class="article__head" style="">
     <img src="/images/Gus task.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
 
@@ -18,10 +18,6 @@ Unlock your body and become the one you were meant to be: Personalized movement 
 - Individualised guidance and feedback
 - Progressive adjustments as you improve
 
-- <div class="article__head" style="">
-    <img src="/images/Class standing.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
-</div>
-
 ### Key Benefits:
 - Personalised attention and tailored movement strategies
 - Improved mobility and flexibility
@@ -29,6 +25,10 @@ Unlock your body and become the one you were meant to be: Personalized movement 
 - Reduced discomfort and increased confidence in daily life
 - Increased energy availability
 - Practical techniques for integrating better movement habits
+
+<div class="article__head" style="">
+    <img src="/images/Class standing.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
+</div>
 
 {{< button link="https://pay.gocardless.com/billing/static/bank-pay?id=BRF01KCEYR6VMQ9N6V6RCT53CEM4QKYN&initial=%2Fbank-pay" text="Buy Now £35" >}}
 
