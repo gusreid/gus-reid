@@ -5,7 +5,7 @@ layout = "classes"
 
 
 <div class="article__head" style="">
-    <img src="/images/Gus crouch.jpg" alt="image" height="200px" width="200px" style="float: left; margin-right: 15px;">
+    <img src="/images/gus.jpg" alt="image" height="200px" width="200px" style="float: left; margin-right: 15px;">
 </div>
 Hi, I'm Gus; student, questioner, mover.
 
@@ -41,6 +41,8 @@ To this end we play with many methods, drills and techniques, which will improve
 You can engage solely on the level of techniques and drills and you will get a lot from the practice to improve your health. But in my one-to-one work we dive even deeper into the principles, which is where you begin to develop a profoundly deep and honest relationship to your body. Which is to say you'll begin the process of letting go of conditioned reactions and habits that distort and limit your true and authentic expression - moving you in the direction of living as your true self -  the one you were meant to be. 
 
 This work can be approached superficially or we can go deep into mind training and investigating the human condition. 
+
+<img src="/images/Gus crouch.jpg"
 
 #### Why work with me?
 Well, I'm nothing special. I've not achieved anything outwardly spectacular with my body (yet). Why is that a good thing? Well, I've been in the trenches with the my body and mind. And at (nearly) fifty years old my body is the healthiest it has ever been, and it is only improving with each day that passes. 
