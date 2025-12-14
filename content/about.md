@@ -21,6 +21,10 @@ This is what's made the biggest difference in my life and so what better way to 
 *Power lies in making distinctions, freedom lies in destroying them.*
 — Peter Ralston
 
+<div class="article__head" style="">
+    <img src="/images/Gus crouch.jpg" alt="image" height="250px" width="450px" style="float: right; margin-left: 15px;">
+</div>
+
 I use a nonlinear approach to movement; working on *all* the ways muscles and fascia interact with the structures of the body and the environment. Not just strength, mobility and flexibility. But also muscle elasticity, spiral dynamics (fascia integration), rhythm, coordination and vestibular training (balance) - all rooted in solid experientially-verifiable principles.
 
 I encourage my students to investigate life *existentially* - meaning looking into matters and seeking to experientially discover how they actually exist and why they exist that way. This is as true of the body as it is of the human condition. The more conscious we are of how things exist the more empowered we are to make finer adjustments in our experience and move our biological organism towards balance and homeostasis. 
@@ -30,7 +34,7 @@ At the same time we are free to destroy distinctions that limit us or create suf
 In the Cheng Hsin Arts, developed by [Peter Ralston](https://chenghsin.com/who-is-peter-ralston/), we use several principles to move the body and mind towards a true and authentic experience. 
 
 <div class="article__head" style="">
-    <img src="/images/Gus crouch.jpg" alt="image" height="250px" width="450px" style="float: right; margin-left: 15px;">
+    <img src="/images/Class 5.jpg" alt="image" height="250px" width="450px" style="float: right; margin-left: 15px;">
 </div>
 
 In the Body-Being work we work to investigate, discover and embody the *Five Principles of an Effortlessly-Effective Body*. 
@@ -45,8 +49,6 @@ To this end we play with many methods, drills and techniques, which will improve
 You can engage solely on the level of techniques and drills and you will get a lot from the practice to improve your health. But in my one-to-one work we dive even deeper into the principles, which is where you begin to develop a profoundly deep and honest relationship to your body. Which is to say you'll begin the process of letting go of conditioned reactions and habits that distort and limit your true and authentic expression - moving you in the direction of living as your true self -  the one you were meant to be. 
 
 This work can be approached superficially or we can go deep into mind training and investigating the human condition. 
-
-<img src="/images/Gus crouch.jpg"
 
 #### Why work with me?
 Well, I'm nothing special. I've not achieved anything outwardly spectacular with my body (yet). Why is that a good thing? Well, I've been in the trenches with the my body and mind. And at (nearly) fifty years old my body is the healthiest it has ever been, and it is only improving with each day that passes. 
