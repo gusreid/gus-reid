@@ -18,6 +18,10 @@ Unlock your body and become the one you were meant to be: Personalized movement 
 - Individualised guidance and feedback
 - Progressive adjustments as you improve
 
+- <div class="article__head" style="">
+    <img src="/images/Class standing.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
+</div>
+
 ### Key Benefits:
 - Personalised attention and tailored movement strategies
 - Improved mobility and flexibility
