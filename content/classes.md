@@ -8,7 +8,7 @@ What's possible when we live our lives from a state of **relaxed**, **open**, **
 
 **Using a playful, non-linear approach, I help spark open investigation, cultivate connection, release tension and promote structural alignment.**
 <div class="article__head" style="">
-    <img src="/images/couldrenclass.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
+    <img src="/images/Class 3.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
 
 **I use a unique blend of...**
