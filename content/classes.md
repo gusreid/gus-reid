@@ -1,3 +1,8 @@
++++
+title = "Classes"
++++
+
+
 ## In-Person Classes: 
 What's possible when we live our lives from a state of **relaxed**, **open**, **grounded** awareness; meeting life **centred** in our being, **whole and complete**? 
 
@@ -6,13 +11,13 @@ What's possible when we live our lives from a state of **relaxed**, **open**, **
     <img src="/images/Class 3.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
 
-**With a unique blend of *task-oriented games* and *feeling-imagery*, we explore overlooked ways of promoting *adaptation*, to improve**
+**With a unique blend of *task-oriented games* and *feeling-imagery*, we explore overlooked ways of promoting *adaptation*, to restore...**
 - Balance, rhythm & coordination
-- Mobility and flexibility
+- Mobility, stability and flexibility
 - Structural alignment
 - Elastic properties of the body
 
-I'll be guiding you in a non-dogmatic movement practice grounded in sold principles from the eastern arts; translated into a modern language and expression, making it practical, accessible and transferable to your everyday life. There is a strong focus on *adaptation* - preparing your body for the unpredictable nature of life. My goal is to help you free yourself from generic, linear, ritualised practice and to help you live from a spontaneously responsive and resilient body. Not just improving within the practice itself, but adapting and thriving within the realities of life. 
+I'll be guiding you in a non-dogmatic movement practice grounded in sold principles from the eastern arts; translated into a modern language and expression, making it practical, accessible and transferable to your everyday life. There is a strong focus on *adaptation* - preparing your body for the unpredictable nature of life. My goal is to help you **free** yourself from generic, linear, ritualised practice, **empowering** you live from a spontaneously responsive and resilient body. Not just improving within the practice itself, but **adapting** and **thriving** within the realities of life. 
 
 <div class="article__head" style="">
     <img src="/images/couldrenclass.jpg" alt="image" height="450px" width="250px" style="float: right; margin-left: 15px;">
@@ -47,3 +52,4 @@ Note: At the Treflach Farm venue there are limited yoga mats, so it might be an 
 - [Fighting Monkey](https://fightingmonkey.net/)
 - [Jon Yuen](https://www.yuenjon.com/)
 - [Samantha Emanuel](https://samanthaemanuel.com/)
+
