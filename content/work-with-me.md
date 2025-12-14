@@ -31,6 +31,7 @@ Unlock your body and become the one you were meant to be: Personalized movement 
 - Practical techniques for integrating better movement habits
 
 {{< button link="https://pay.gocardless.com/billing/static/bank-pay?id=BRF01KCEYR6VMQ9N6V6RCT53CEM4QKYN&initial=%2Fbank-pay" text="Buy Now £35" >}}
+
 ### Ideal for:
 - Professionals seeking to counteract the effects of sedentary work
 - Individuals recovering from injuries or managing chronic conditions
