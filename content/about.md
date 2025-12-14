@@ -5,7 +5,7 @@ layout = "classes"
 
 
 <div class="article__head" style="">
-    <img src="/images/gus.jpg" alt="image" height="200px" width="200px" style="float: left; margin-right: 15px;">
+    <img src="/images/Gus crouch.jpg" alt="image" height="200px" width="200px" style="float: left; margin-right: 15px;">
 </div>
 Hi, I'm Gus; student, questioner, mover.
 
