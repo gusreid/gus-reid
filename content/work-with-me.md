@@ -45,7 +45,7 @@ This approach combines principles of biomechanics, movement efficiency, and indi
 If you want to learn a new skill, overcome a challenge or simply change something about your body you need consistent, intelligent inputs over a long period. True, authentic and long-lasting change is born from consistency. 
 
 <div class="article__head" style="">
-    <img src="/images/Notion workout program.jpeg" alt="image" height="400px" width="600px" style="float: right; margin-left: 15px;">
+    <img src="/images/Notion workout program.jpg" alt="image" height="400px" width="600px" style="float: right; margin-left: 15px;">
 </div>
 
 I offer **5-week** and **12-week** programmes. 
