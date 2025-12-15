@@ -49,6 +49,9 @@ In the Body-Being work we work to investigate, discover and embody the *Five Pri
 To this end we play with many methods, drills and techniques, which will improve your mobility, coordination and balance; increase your awareness and reaction time, develop your feeling-awareness and ability to generate feeling-states that have desirable outcomes in physical alignment and expression -  and to generally improve your experience of your body and its relationship to your environment. 
 
 #### Why work with me?
+<div class="article__head" style="">
+    <img src="/images/Gus crouch.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
+</div>
 I was born with a musculoskeletal condition called *pectus excavatum*; a whole-body condition that manifests as a concaved chest. Growing up with this condition made breathing difficult and movement painful. I was racked with injuries as a child, and shied away from sports and physical activity.  I wasn't even remotely athletic until I was well into my forties. 
 
 To distract me from the pain I developed coping strategies like chronic nail-biting. I had all manner of ticks and other bodily neuroses. As a teenager I discovered drugs and alcohol, and they became my escape. 
