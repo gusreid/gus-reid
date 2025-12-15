@@ -14,21 +14,24 @@ I guide individuals and groups towards a more empowered, playful, grounded relat
 
 I'm on a mission to **empower** others to discover **freedom** and **joy** within their bodies. Helping us all grow old gracefully, continually adapting till we drop. 
 
-I've learned through hard experience that staying within the "known" leads to ever-decreasing openness; contracting us *into* our experience, limiting our freedom of movement and expression. Whether we're talking about having limited range of joint movement or being stuck in an emotional pattern, the principle is the same - if you don't consistently move your body and mind into the *unknown* your life will shrink. The decades-long accumulation of staying within the *known* leads to all the undesirable consequences we assume is just part of aging. 
+Movement variability is the key to aging well and maintaining and increasing our mobility and motor functions. 
 
-Teaching our bodies to move into the *unknown* is the key to physical, mental and emotional freedom and empowerment. We might call this **adaptation**.
+#### Education
+I am well educated and experienced in many movement disciplines, East and West, ancient and modern, and have created a synthesised approach that is free of dogma, ritual and religious contexts. The tools and practices I teach don't just make you feel good while practicing, but empower you to adapt to the realities of life. 
 
-This is what's made the biggest difference in my life and so what better way to express my appreciation for my own freedom and empowerment than to commit my energy to guiding supporting others on their journey.
+My passion for movement has driven me to study with many teachers and schools. 
+- I studied yoga at the Swami Vivekananda Yoga University in Bangalore, India, where I received my Teacher Training Certificate.
+- I've studied with the Chek Institute and am certified in Integrated Movement Science and Holistic Lifestyle Coach.
+- I'm a certified Functional Range Conditioning instructor.
+- I studied Tai Chi and Chi Gong in Guanxi Province in China for four months
+- I've studied extensively with the Cheng Hsin Arts - Peter Ralston, master martial artist and consciousness facilitator, out in Texas, USA.
+- I participated in an internship with Luke Davis, a chiropractic and physiotherapy lecturer at the university of South Wales, and Samantha Emanuel, a dance instructor, FM instructor and Trinity College London Scholar, where I learned about pain management and the biopsychosocial approach to health care. 
+- Plus working with many other courses and teachers. 
+
+This multidisciplinary approach has led to many breakthroughs in freeing myself and my clients and students from pain and dysfunctional habits. 
 
 #### How does this look?
-*Power lies in making distinctions, freedom lies in destroying them.*
-— Peter Ralston
-
-I use a nonlinear approach to movement; working on *all* the ways muscles and fascia interact with the structures of the body and the environment. Not just strength, mobility and flexibility. But also muscle elasticity, spiral dynamics (fascia integration), rhythm, coordination and vestibular training (balance) - all rooted in solid experientially-verifiable principles.
-
-I encourage my students to investigate life *existentially* - meaning looking into matters and seeking to experientially discover how they actually exist and why they exist that way. This is as true of the body as it is of the human condition. The more conscious we are of how things exist the more empowered we are to make finer adjustments in our experience and move our biological organism towards balance and homeostasis. 
-
-At the same time we are free to destroy distinctions that limit us or create suffering. Many of our beliefs and assumptions we hold about ourselves, our bodies and life are just plain wrong. Relating to life trough an erroneous lens has significant consequences for our health, alignment and wellbeing. The more conscious we become the better able we are to discover the root assumptions holding us back from being the most genuine, authentic expression of ourselves and let them go; promoting ever-increasing degrees of freedom. 
+I use a nonlinear approach to movement; working on *all* the ways muscles and fascia interact with the structures of the body and the environment. Not just strength, mobility and flexibility. But also muscle elasticity, spiral dynamics (fascia integration), rhythm, coordination and vestibular training (balance) - all rooted in solid principles.
 
 In the Cheng Hsin Arts, developed by Peter Ralston, we use several principles to move the body and mind towards its most aligned and authentic expression. 
 
@@ -42,9 +45,7 @@ In the Body-Being work we work to investigate, discover and embody the *Five Pri
 To this end we play with many methods, drills and techniques, which will improve your mobility, coordination and balance; increase your awareness and reaction time, develop your feeling-awareness and ability to generate feeling-states that have desirable outcomes in physical alignment and expression -  and to generally improve your experience of your body and its relationship to your environment. 
 
 #### Why work with me?
-Well, I'm nothing special. I've not achieved anything outwardly spectacular with my body (yet). Why is that a good thing? Well, I've been in the trenches with my body and mind. And at (nearly) fifty years old my body is the healthiest it has ever been, and it is only improving with each day that passes. 
-
-I was born with a musculoskeletal condition called *pectus excavatum*; a whole-body condition that manifests most obviously as a concaved chest. Growing up with this condition made breathing difficult and movement painful. I was racked with injuries as a child, and shied away from sports and physical activity.  I wasn't even remotely athletic until I was well into my forties. 
+I was born with a musculoskeletal condition called *pectus excavatum*; a whole-body condition that manifests as a concaved chest. Growing up with this condition made breathing difficult and movement painful. I was racked with injuries as a child, and shied away from sports and physical activity.  I wasn't even remotely athletic until I was well into my forties. 
 
 To distract me from the pain I developed coping strategies like chronic nail-biting. I had all manner of ticks and other bodily neuroses. As a teenager I discovered drugs and alcohol, and they became my escape. 
 
@@ -64,7 +65,6 @@ Movement is about more than just getting fit, being "functional", longevity or p
 As we become more aligned with, *and centred in*, our essential nature we have more possibility to generate internal states that move us in a satisfying, aligning, competent and graceful direction - the world begins to open up for us and shit just works right! 
 
 I'm passionate about movement; not only as a therapeutic tool, but as vehicle for transformation. And it's my joy to share the potential of movement to awaken the wisdom of the body.  
-
 
 <!-- ![alt text](/images/58.png) -->
 
