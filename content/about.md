@@ -22,6 +22,7 @@ I am well educated and experienced in many movement disciplines, East and West, 
 <div class="article__head" style="">
     <img src="/images/Gus task.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
 </div>
+
 My passion for movement has driven me to study with many teachers and schools. 
 - I studied yoga at the Swami Vivekananda Yoga University in Bangalore, India, where I received my Teacher Training Certificate.
 - I've studied with the Chek Institute and am certified in Integrated Movement Science and Holistic Lifestyle Coach.
