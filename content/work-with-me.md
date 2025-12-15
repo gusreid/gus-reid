@@ -44,6 +44,10 @@ This approach combines principles of biomechanics, movement efficiency, and indi
 ## Individualised Programmes
 If you want to learn a new skill, overcome a challenge or simply change something about your body you need consistent, intelligent inputs over a long period. True, authentic and long-lasting change is born from consistency. 
 
+<div class="article__head" style="">
+    <img src="/images/Notion workout program.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
+</div>
+
 I offer **5-week** and **12-week** programmes. 
  
 The current scientific research shows that the best results come from programmes of 12 weeks or more. But I understand that this is not always financially viable for some people; so I also offer 5-week programmes. 
@@ -58,6 +62,5 @@ If you are on the **12-week** programme we will adjust your programme every *4 w
 
 - **5-week individualised programme** with 1 phase - {{< button link="https://gusreid.ck.page/products/5-week-individualised-programme" text="Buy Now" >}}
 - **12-week individualised programme** with 3 phases -  {{< button link="https://gusreid.ck.page/products/12-week-individualised-programme" text="Buy Now" >}}
-
 
 
