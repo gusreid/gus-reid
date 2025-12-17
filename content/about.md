@@ -19,20 +19,16 @@ Movement variability is the key to aging well and maintaining and increasing our
 #### Education
 I am well educated and experienced in many movement disciplines, East and West, ancient and modern, and have created a synthesised approach that is free of dogma, ritual and religious contexts. The tools and practices I teach don't just make you feel good while practicing, but empower you to adapt to the realities of life. 
 
-<div class="article__head" style="">
-    <img src="/images/Gus task.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
-</div>
-
 My passion for movement has driven me to study with many teachers and schools. 
 - I studied yoga at the Swami Vivekananda Yoga University in Bangalore, India, where I received my Teacher Training Certificate.
 - I've studied with the Chek Institute and am certified in Integrated Movement Science and Holistic Lifestyle Coach.
 - I'm a certified Functional Range Conditioning instructor.
 - I studied Tai Chi and Chi Gong in Guanxi Province in China for four months
 - I've studied extensively with the Cheng Hsin Arts - Peter Ralston, master martial artist and consciousness facilitator, out in Texas, USA.
-- I participated in an internship with Luke Davis, a chiropractic and physiotherapy lecturer at the university of South Wales, and Samantha Emanuel, a dance instructor, FM instructor and Trinity College London Scholar, where I learned about pain management and the biopsychosocial approach to health care. 
-- Plus working with many other courses and teachers. 
+- I participated in The B2R Internship with Luke Davis, a chiropractic and physiotherapy lecturer at the university of South Wales, and Samantha Emanuel, a dance instructor, FM instructor and Trinity College London Scholar, where I learned about pain management and the biopsychosocial approach to health care. 
+- Plus working with many other courses, trainers and teachers. 
 
-This multidisciplinary approach has led to many breakthroughs in freeing myself and my clients and students from pain and dysfunctional habits. 
+This multidisciplinary approach has led to many breakthroughs in freeing myself and my clients and students from tension, pain and confusion.
 
 #### How does this look?
 I use a nonlinear approach to movement; working on *all* the ways muscles and fascia interact with the structures of the body and the environment. Not just strength, mobility and flexibility. But also muscle elasticity, spiral dynamics (fascia integration), rhythm, coordination and vestibular training (balance) - all rooted in solid principles.
@@ -46,12 +42,9 @@ In the Body-Being work we work to investigate, discover and embody the *Five Pri
 - Being grounded, and
 - Feeling the whole body (and the space around the body)
 
-To this end we play with many methods, drills and techniques, which will improve your mobility, coordination and balance; increase your awareness and reaction time, develop your feeling-awareness and ability to generate feeling-states that have desirable outcomes in physical alignment and expression -  and to generally improve your experience of your body and its relationship to your environment. 
+To this end we play with many methods, tasks, games, feeling-states and techniques, which will improve your mobility, coordination and balance; increase your awareness and reaction time, develop your feeling-awareness and ability to generate states that have desirable outcomes in physical alignment and expression -  and to generally improve your experience of your body and its relationship to your environment. 
 
 #### Why work with me?
-<div class="article__head" style="">
-    <img src="/images/Gus crouch.jpg" alt="image" height="400px" width="400px" style="float: right; margin-left: 15px;">
-</div>
 I was born with a musculoskeletal condition called *pectus excavatum*; a whole-body condition that manifests as a concaved chest. Growing up with this condition made breathing difficult and movement painful. I was racked with injuries as a child, and shied away from sports and physical activity.  I wasn't even remotely athletic until I was well into my forties. 
 
 To distract me from the pain I developed coping strategies like chronic nail-biting. I had all manner of ticks and other bodily neuroses. As a teenager I discovered drugs and alcohol, and they became my escape. 
@@ -69,9 +62,10 @@ This is truly the crux of my work - to empower you with the knowledge, experienc
 #### Reframing practice
 Movement is about more than just getting fit, being "functional", longevity or preventing illness. The body offers feedback on how our minds work. Movement has the potential to be the vehicle through which we awaken unrecognised aspects of our mind; revealing emotional dispositions towards self, life and others. As we free ourselves from these dispositions we learn to rest as Being. 
 
-As we become more aligned with, *and centred in*, our essential nature we have more possibility to generate internal states that move us in a satisfying, aligning, competent and graceful direction - the world begins to open up for us and shit just works right! 
+As we become more aligned with, *and centred in*, our essential nature we have more possibility to generate internal states that move us in a satisfying, aligning, competent and graceful direction - the world begins to open up for us and stuff just works right! 
 
 I'm passionate about movement; not only as a therapeutic tool, but as vehicle for transformation. And it's my joy to share the potential of movement to awaken the wisdom of the body.  
+
 
 <!-- ![alt text](/images/58.png) -->
 
